@@ -1,22 +1,9 @@
-# Open Terms Archive - ${instanceName} versions
+# Open Terms Archive - Sandbox versions
+
+FOR TESTING PURPOSE ONLY
 
 This repository is to be considered as a database only.
 You can find the documentation by following the link in the “About” section of this page.
-
-## How to use this template
-
-This is a template for the `versions` repository of [Open Terms Archive](https://opentermsarchive.org)
-
-**NOTE**: When creating from this template, please keep the naming structure of `${instanceName}-versions` in order to keep consistency across repos and organisations.
-
-In order to use it, follow this simple steps:
-- Navigate to https://github.com/OpenTermsArchive/template-versions
-- Click on `Use this template`
-- Enter the name of the target repository `${instanceName}-versions` and the target organization
-- Edit this file by clicking on the ![Edit Button](https://raw.githubusercontent.com/primer/octicons/main/icons/pencil-24.svg "Look, on the right of the title README.md") icon at the top right of this file *(This icon is visible if you have the right to modify this repo)*
-- Remove this paragraph and replace the `${instanceName}` and `${instanceMaintainer}` in the documentation
-
-You can also check the complete doc: [How to use a template on Github](https://docs.github.com/en/github-ae@latest/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
 ## Use RSS feed
 
@@ -26,7 +13,7 @@ You can receive notification for a specific service or document by subscribing t
 
 To find out the address of the RSS feed you want to subscribe to:
 
-1. [Navigate](#exploring-the-versions-history) to the page with the history of changes you are interested in. _In the OpenTermsArchive example above, this would be [this page](https://github.com/OpenTermsArchive/${instanceName}-versions/commits/main/OpenTermsArchive/Privacy%20Policy.md)._
+1. [Navigate](#exploring-the-versions-history) to the page with the history of changes you are interested in. _In the OpenTermsArchive example above, this would be [this page](https://github.com/OpenTermsArchive/sandbox-versions/commits/main/OpenTermsArchive/Privacy%20Policy.md)._
 2. Copy the address of that page from your browser’s address bar. _In the OpenTermsArchive example, this would be `https://github.com/OpenTermsArchive/${instanceName}-versions/commits/main/OpenTermsArchive/Privacy%20Policy.md`._
 3. Append `.atom` at the end of this address. _In the OpenTermsArchive example, this would become `https://github.com/OpenTermsArchive/${instanceName}-versions/commits/main/OpenTermsArchive/Privacy%20Policy.md.atom`._
 4. Subscribe your RSS feed reader to the resulting address.
