@@ -131,7 +131,7 @@ We provide these services to you and others to help advance our mission. In exch
       
     
 *   Limits on using our intellectual property  
-    If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://en.facebookbrand.com/trademarks/) as expressly permitted by our [Brand Usage Guidelines](https://en.facebookbrand.com/guidelines/brand) or with our prior written permission. You must obtain our written permission (or permission under an open-source licence) to modify, create derivative works of, decompile or otherwise attempt to extract source code from us.
+    If you use content covered by intellectual property rights that we have and make available in our Products (for example, images, designs, videos or sounds we provide that you add to content you create or share on Facebook), we retain all rights to that content (but not yours). You can only use our copyrights or [trademarks (or any similar marks)](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fen.facebookbrand.com%2Ftrademarks%2F) as expressly permitted by our [Brand Usage Guidelines](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fen.facebookbrand.com%2Fguidelines%2Fbrand) or with our prior written permission. You must obtain our written permission (or permission under an open-source licence) to modify, create derivative works of, decompile or otherwise attempt to extract source code from us.
 
   
 
@@ -218,7 +218,7 @@ We provide these services to you and others to help advance our mission. In exch
     
 *   [Commerce Policies](https://www.facebook.com/policies/commerce): These guidelines outline the Policies that apply when you offer products and services for sale on Facebook.
     
-*   [Meta brand resources](https://www.facebookbrand.com/): These guidelines outline the policies that apply to use of Meta trademarks, logos and screenshots.
+*   [Meta brand resources](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebookbrand.com%2F): These guidelines outline the policies that apply to use of Meta trademarks, logos and screenshots.
     
 *   [Music guidelines](https://www.facebook.com/legal/music_guidelines): These guidelines outline the policies that apply if you post or share content containing music on Meta Products.
     
@@ -250,15 +250,4 @@ Deutsch
 
 العربية
 
-[Sign Up](https://www.facebook.com/reg/)[Log In](https://www.facebook.com/login/)[Messenger](https://messenger.com/)[Facebook Lite](https://www.facebook.com/lite/)[Watch](https://www.facebook.com/watch/)[Places](https://www.facebook.com/places/)[Games](https://www.facebook.com/games/)[Marketplace](https://www.facebook.com/marketplace/)[Facebook Pay](https://pay.facebook.com/)[Oculus](https://www.oculus.com/)[Portal](https://portal.facebook.com/)[Instagram](https://www.instagram.com/)[Bulletin](https://www.bulletin.com/)[Local](https://www.facebook.com/local/lists/245019872666104/)[Fundraisers](https://www.facebook.com/fundraisers/)[Services](https://www.facebook.com/biz/directory/)[Voting Information Centre](https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)[Groups](https://www.facebook.com/groups/explore/)
-
-*   [Privacy](https://www.facebook.com/privacy/explanation/) ·
-*   [Terms](https://www.facebook.com/policies?ref=pf) ·
-*   [Advertising](https://www.facebook.com/business/) ·
-*   [Ad choices](https://www.facebook.com/help/568137493302217)   ·
-*   [Cookies](https://www.facebook.com/policies/cookies/) ·
-*   More
-    
-     ·
-
-Meta © 2022
+[Sign Up](https://www.facebook.com/reg/)[Log In](https://www.facebook.com/login/)[Messenger](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fmessenger.com%2F)[Facebook Lite](https://www.facebook.com/lite/)[Watch](https://www.facebook.com/watch/)[Places](https://www.facebook.com/places/)[Games](https://www.facebook.com/games/)[Marketplace](https://www.facebook.com/marketplace/)[Facebook Pay](https://pay.facebook.com/)[Oculus](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.oculus.com%2F)[Portal](https://portal.facebook.com/)[Instagram](https://fr-fr.facebook.com/legal/terms/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.instagram.com%2F)[Bulletin](https://www.bulletin.com/)[Local](https://www.facebook.com/local/lists/245019872666104/)[Fundraisers](https://www.facebook.com/fundraisers/)[Services](https://www.facebook.com/biz/directory/)[Voting Information Centre](https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)[Groups](https://www.facebook.com/groups/explore/)
