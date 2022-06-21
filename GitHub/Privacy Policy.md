@@ -117,13 +117,13 @@ When you are asked to provide Personal Data, you may decline. And you may use we
 
 We may use your information to provide, administer, analyze, manage, and operate our Service. For example, we use your information for the following purposes:
 
-*   Provide our products and deliver our services including troubleshooting, improving, and personalizing the features on the Service.
-*   Business operations such as billing, accounting, improving our internal operations, securing our systems, detecting fraudulent or illegal activity, and meeting our legal obligations.
-*   Improve and develop our products and services including to develop new services or features, and conduct research.
-*   Personalization of our Service by understanding you and your preferences to enhance your experience and enjoyment using our Service.
-*   Provide customer support and respond to your questions.
-*   Deliver promotional communications with you about new services, features, offers, promotions, and other information about our Service.
-*   Send you information, including confirmations, invoices, technical notices, updates, security alerts, support and administrative messages.
+* Provide our products and deliver our services including troubleshooting, improving, and personalizing the features on the Service.
+* Business operations such as billing, accounting, improving our internal operations, securing our systems, detecting fraudulent or illegal activity, and meeting our legal obligations.
+* Improve and develop our products and services including to develop new services or features, and conduct research.
+* Personalization of our Service by understanding you and your preferences to enhance your experience and enjoyment using our Service.
+* Provide customer support and respond to your questions.
+* Deliver promotional communications with you about new services, features, offers, promotions, and other information about our Service.
+* Send you information, including confirmations, invoices, technical notices, updates, security alerts, support and administrative messages.
 
 We combine data we collect from different sources for these purposes and to give you a more seamless, consistent, and personalized experience.
 
@@ -160,9 +160,9 @@ We enable access to Personal Data across our subsidiaries, affiliates, and relat
 
 We will disclose Personal Data if we believe it is necessary to:
 
-*   protect our customers and others, for example to prevent spam or attempts to commit fraud, or to help prevent the loss of life or serious injury of anyone;
-*   operate and maintain the security of the Service, including to prevent or stop an attack on our systems or networks; or
-*   protect the rights or property or ourselves or others, including enforcing our agreements, terms, and policies.
+* protect our customers and others, for example to prevent spam or attempts to commit fraud, or to help prevent the loss of life or serious injury of anyone;
+* operate and maintain the security of the Service, including to prevent or stop an attack on our systems or networks; or
+* protect the rights or property or ourselves or others, including enforcing our agreements, terms, and policies.
 
 ### [](#for-legal-disclosure)For legal disclosure
 
@@ -244,12 +244,12 @@ GitHub takes reasonable measures necessary to protect your Personal Data from un
 
 In addition, if your account has private repositories, you control the access to that Content. GitHub personnel does not access private repository content except for
 
-*   security purposes,
-*   automated scanning for known vulnerabilities, active malware, or other content known to violate our Terms of Service
-*   to assist the repository owner with a support matter
-*   to maintain the integrity of the Service
-*   to comply with our legal obligations if we have reason to believe the contents are in violation of the law,
-*   or with your consent.
+* security purposes,
+* automated scanning for known vulnerabilities, active malware, or other content known to violate our Terms of Service
+* to assist the repository owner with a support matter
+* to maintain the integrity of the Service
+* to comply with our legal obligations if we have reason to believe the contents are in violation of the law,
+* or with your consent.
 
 Github will provide notice regarding private repository access where not prohibited by law or if in response to a security threat or other risk to security.
 
