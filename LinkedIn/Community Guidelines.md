@@ -1,100 +1,100 @@
-We want LinkedIn to reflect the best version of professional life
------------------------------------------------------------------
+Nous souhaitons que LinkedIn reflète la meilleure version possible de la vie professionnelle
+--------------------------------------------------------------------------------------------
 
-This is a community where we treat each other with respect and help each other succeed.
+C’est une communauté où nous nous traitons mutuellement avec respect et nous entraidons pour atteindre nos objectifs.
 
-*   ### Be safe
+*   ### Sécurité
     
-    Only bring safe conversations to LinkedIn.
+    Vos discussions sur LinkedIn doivent être bienveillantes.
     
-    [**Learn more**](#be-safe-policy)
+    [**En savoir plus**](#be-safe-policy)
     
-*   ### Be trustworthy
+*   ### Fiabilité
     
-    Use your true identity and share information that is real and authentic.
+    Utilisez votre véritable identité et partagez des informations réelles et authentiques.
     
-    [**Learn more**](#be-trustworthy-policy)
+    [**En savoir plus**](#be-trustworthy-policy)
     
-*   ### Be professional
+*   ### Professionnalisme
     
-    We allow broad conversations about the world of work, but just keep it professional.
+    Nous autorisons les discussions générales sur le monde du travail, mais veuillez rester professionnel(le).
     
-    [**Learn more**](#be-professional-policy)
-    
-
-LinkedIn Professional Community Policies
-========================================
-
-Thank you for using LinkedIn, where the world’s professionals come together to find jobs, stay informed, learn new skills, and build productive relationships. The content that you contribute should add to the LinkedIn community in a constructive manner. Additional information on what that means, is laid out below. You should also review our [Publishing Platform Guidelines](https://www.linkedin.com/help/linkedin/answer/47545). Together we can make our community a place where everyone is able to learn, grow, and communicate, which, in turn, helps create economic opportunity for everyone.
-
-*   ### Tell us if you see abusive content
-    
-    If you see something you believe may violate our policies, whether in profiles, posts, messages, comments, or anywhere else, please [report it to us](https://www.linkedin.com/help/linkedin/answer/146). Combined with our automated defenses, these reports help us identify and prevent abuse. Please use the reporting tools responsibly and only for their intended purposes. To learn more about how to report inappropriate content, behavior, or members, visit our [Safety Center](https://safety.linkedin.com/identifying-abuse).
-    
-*   ### Violating our community policies can result in action against your account or content
-    
-    These policies apply to all members. Depending on the severity of violation, we may limit the visibility of certain content, label it, or remove it entirely. Repeated or egregious offenses will result in account restriction. If you believe action taken on your content or your account was in error, you can submit an [appeal](https://www.linkedin.com/help/linkedin/answer/82934).
-    
-    Learn more about how [we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368)**.**
+    [**En savoir plus**](#be-professional-policy)
     
 
-*   Be safe
-    -------
+Politiques de la communauté professionnelle LinkedIn
+====================================================
+
+Merci d’utiliser LinkedIn, un lieu où des professionnels du monde entier se réunissent pour trouver un emploi, se tenir au courant des actualités, apprendre de nouvelles compétences et bâtir des relations productives. Le contenu que vous publiez doit apporter une valeur ajoutée à la communauté LinkedIn et être constructif. Découvrez ci-dessous des informations supplémentaires sur ce que cela signifie. Pensez également à consulter nos [Directives de publication sur la plateforme](https://www.linkedin.com/help/linkedin/answer/47545). Ensemble, nous pouvons faire de notre communauté un endroit où chacun peut apprendre, grandir et communiquer, ce qui permet de créer des opportunités économiques pour tout le monde en retour.
+
+*   ### Signalez-nous tout contenu abusif
     
-    Only bring safe conversations to LinkedIn.
+    Si vous voyez un contenu dont vous pensez qu’il peut enfreindre nos politiques, qu’il figure dans un profil, un post, un message, un commentaire ou n’importe où ailleurs, veuillez [nous le signaler](https://www.linkedin.com/help/linkedin/answer/146). En plus de nos outils de défense automatiques, ces rapports nous aident à identifier et prévenir les débordements. Veuillez utiliser les outils de signalement avec discernement et uniquement aux fins prévues. Pour en savoir plus sur la façon dont vous pouvez signaler un contenu, comportement ou membre inapproprié, consultez notre [Centre de sécurité](https://safety.linkedin.com/identifying-abuse).
     
-    **Do not post harassing content:** We don’t allow bullying or harassment. This includes targeted personal attacks, intimidation, shaming, disparagement, and abusive language directed at other members. Do not reveal others' personal or sensitive information (aka "doxing"), or incite others to do the same. You may not engage in trolling or other repetitive negative content that disrupts other members or conversations on the platform.
+*   ### Une infraction à nos politiques de la communauté peut entraîner des mesures contre votre compte ou contenu
     
-    Learn more about our [harassing and abusive content policies](https://www.linkedin.com/help/linkedin/answer/137369)**.**
+    Ces politiques s’appliquent à tous les membres. Selon la gravité de l’infraction, nous pouvons limiter la visibilité d’un contenu, ajouter une mention, voire le supprimer intégralement. Les offenses répétées ou choquantes entraîneront une restriction du compte concerné. Si vous pensez que votre contenu ou votre compte a été sanctionné par erreur, vous pouvez [faire appel](https://www.linkedin.com/help/linkedin/answer/82934).
     
-    **Do not threaten, incite, or promote violence:** We don’t allow threatening or inciting violence of any kind. We don’t allow individuals or groups that engage in or promote violence, property damage, or organized criminal activity. You may not use LinkedIn to express support for such individuals or groups or to otherwise glorify violence.
+    Découvrez comment [nous gérons les violations de nos Politiques de la communauté professionnelle](https://www.linkedin.com/help/linkedin/answer/137368)**.**
     
-    Learn more about our [violent and graphic content policies](https://www.linkedin.com/help/linkedin/answer/137374)**.**
+
+*   Sécurité
+    --------
     
-    **Do not share material depicting the exploitation of children:** We have zero tolerance for content that depicts the sexual exploitation of children. Do not share, post, transmit, or solicit child exploitation material through or using our platform. Do not use LinkedIn in any way to facilitate, encourage, or engage in the abuse or exploitation of children. When we become aware of apparent child exploitation, we report it to the National Center for Missing and Exploited Children (NCMEC).
+    Vos discussions sur LinkedIn doivent être bienveillantes.
     
-    Learn more about our [child sexual exploitation, abuse, and nudity policies](https://www.linkedin.com/help/linkedin/answer/137376)**.**
+    **Ne publiez pas de contenu harcelant :** tout harcèlement ou persécution est interdit. Ceci comprend les attaques personnelles ciblées, l’intimidation, l’humiliation, le dénigrement et les propos injurieux à l’encontre d’autres membres. Ne révélez pas de données à caractère personnel ou sensible sur autrui (“doxing”) et n’incitez pas les autres à le faire. Ne trollez pas et ne publiez pas de contenu négatif répétitif pour perturber les autres membres ou les discussions sur la plateforme.
     
-    **Do not promote, sell or attempt to purchase illegal or dangerous goods or services.** We don't allow content that facilitates the purchase of illegal or dangerous goods and/or services, prostitution, and escort services. We don't allow content that promotes or distributes fake educational and/or professional certifications, sale of scraped data, proxy test-taking, or instructions on creating forged official documents. You may not use LinkedIn to hold lotteries, contests, sweepstakes, or giveaways. Do not use LinkedIn to sensationalize or capitalize on tragic events for commercial purposes.
+    En savoir plus sur nos [politiques en matière de contenu harcelant et abusif](https://www.linkedin.com/help/linkedin/answer/137369)**.**
     
-    Learn more about our [illegal and inappropriate commercial activity policy](https://www.linkedin.com/help/linkedin/answer/137373)**.**
+    **Ne promouvez pas, ne menacez pas et n’incitez pas à la violence :** il est interdit de menacer de violence ou d’inciter à la violence. Les individus ou les groupes ont interdiction de promouvoir ou de se livrer à des actes de violence, à des dommages matériels ou à toute activité de criminalité organisée. Vous ne pouvez pas utiliser LinkedIn pour exprimer votre soutien à de tels individus ou groupes ou pour glorifier tout fait de violence.
     
-    **Do not share content promoting dangerous organizations or individuals.** We don't allow any terrorist organizations or violent extremist groups on our platform. And we don't allow any individuals who affiliate with such organizations or groups to have a LinkedIn profile. Content that depicts terrorist activity, that is intended to recruit for terrorist organizations, or that threatens, promotes, or supports terrorism in any manner is not tolerated.
+    En savoir plus sur nos [politiques en matière de contenu violent et choquant](https://www.linkedin.com/help/linkedin/answer/137374)**.**
     
-    Learn more about our [dangerous organizations and individuals policy](https://www.linkedin.com/help/linkedin/answer/137375)**.**
+    **Ne partagez pas de contenu représentant l’exploitation d’enfants :** nous n’avons aucune tolérance à l’égard de contenus représentant l’exploitation sexuelle d’enfants. Ne partagez pas, ne publiez pas, ne transmettez pas et ne sollicitez pas de contenu d’exploitation d’enfants par le biais de notre plateforme. N’utilisez pas LinkedIn d’une manière qui facilite, encourage ou donne lieu à l’abus ou à l’exploitation d’enfants. Lorsque nous avons connaissance d’une potentielle exploitation d’enfants, nous la signalons au National Center for Missing and Exploited Children (NCMEC).
     
-*   Be Trustworthy
-    --------------
+    En savoir plus sur nos [politiques en matière d’exploitation sexuelle, d’abus et de nudité d’enfants](https://www.linkedin.com/help/linkedin/answer/137376)**.**
     
-    We require you to use your true identity on LinkedIn, provide accurate information about yourself or your organization, and only share information that is real and authentic.
+    **Ne promouvez pas, ne vendez pas et n’essayez pas d’acheter des biens et services illégaux ou dangereux :** tout contenu qui facilite l’achat de biens et/ou services illégaux ou dangereux, la prostitution et les services d’escorte est interdit. Nous n’autorisons pas le contenu qui promeut ou diffuse de fausses certifications académiques et/ou professionnelles, la vente de données capturées, le passage d’un examen par un tiers, ou des instructions sur la création de documents officiels contrefaits. Vous ne pouvez pas utiliser LinkedIn pour organiser des loteries, des concours, des tirages au sort ou des dons de cadeaux. N’utilisez pas LinkedIn pour dramatiser ou exploiter des événements tragiques à des fins commerciales.
     
-    **Do not share false or misleading content:** Do not share content in a way that you know is, or think may be, misleading or inaccurate, including misinformation or disinformation. Do not share content to interfere with or improperly influence an election or other civic process. We may prevent you from posting content from sites that are known to produce or contain misinformation. Do not share content that directly contradicts guidance from leading global health organizations and public health authorities; including false information about the safety or efficacy of COVID-19 vaccines. Do not share false content or information, including news stories, as though they are true or likely true. Do not post “deepfake” images or videos of others or otherwise post content that has been manipulated to deceive. Do not share content or endorse someone or something in exchange for personal benefit (including personal or family relationships, monetary payment, free products or services, or other value), unless you have included a clear and conspicuous notice of the personal benefit you receive and have otherwise complied with our [Advertising Policies](https://www.linkedin.com/legal/ads-policy). 
+    En savoir plus sur notre [politique en matière d’activités commerciales illégales et inappropriées](https://www.linkedin.com/help/linkedin/answer/137373)**.**
     
-    Learn more about our [false or misleading content policy](https://www.linkedin.com/help/linkedin/answer/137371)**.**
+    **Ne partagez pas de contenu promouvant des organisations ou des individus dangereux :** la présence d’organisations terroristes ou de groupes extrémistes violents sur notre plateforme est interdite. Nous n’acceptons pas non plus que des individus affiliés à de tels groupes ou organisations aient un profil LinkedIn. Tout contenu décrivant une activité terroriste, conçu pour recruter pour le compte d’organisations terroristes, ou qui menace de, promeut ou soutient le terrorisme de quelque manière que ce soit ne saurait être toléré.
     
-    **Do not create a fake profile or falsify information about yourself:** We don’t allow fake profiles or entities. Do not post misleading or deceptive information about yourself, your business, your qualifications, work experience, affiliations, or achievements. Do not use an image of someone else, or any other image that is not your likeness, for your [profile photo](https://www.linkedin.com/help/linkedin/answer/430). Do not associate yourself on LinkedIn with a business or organization that you are not actually associated with. Do not use or attempt to use another person's LinkedIn account or create a member profile for anyone other than yourself. And do not share your LinkedIn account with anyone else.
+    En savoir plus sur notre [politique en matière d’organisations et individus dangereux](https://www.linkedin.com/help/linkedin/answer/137375)**.**
     
-    **Do not scam, defraud, deceive others.** Do not use LinkedIn to facilitate romance scams, promote pyramid schemes, or otherwise defraud members. Do not share malicious software that puts our members, platform, or services at risk. Phishing attempts are not tolerated.
+*   Fiabilité
+    ---------
     
-    Learn more about our [scams and fraud content policies](https://www.linkedin.com/help/linkedin/answer/137377)**.**
+    Nous vous demandons d’utiliser votre véritable identité sur LinkedIn, de fournir des informations exactes vous concernant vous ainsi que votre organisation, et de partager uniquement des informations réelles et authentiques.
     
-*   Be professional
-    ---------------
+    **Ne partagez pas de contenu faux ou trompeur :** ne partagez pas de contenu d’une façon dont vous savez ou pensez qu’elle pourrait être trompeuse ou inexacte, y compris de fausses informations ou de la désinformation. Ne partagez pas de contenu interférant avec ou influençant de manière inappropriée une élection ou toute autre procédure civique. Nous pouvons vous empêcher de publier du contenu provenant de sites identifiés comme produisant ou contenant de fausses informations. Ne partagez pas de contenu qui contredit directement les conseils des organisations internationales de la santé et des autorités sanitaires publiques, y compris de fausses informations concernant la sécurité ou l’efficacité des vaccins contre la Covid-19. Ne partagez pas de contenu inexact ou des informations fausses, notamment des articles d’actualités, en les présentant comme étant vrais ou probablement vrais. Ne publiez pas d’images ou de vidéos truquées (“deepfake”) d’autres personnes ni de contenu manipulé dans le but de tromper. Ne partagez pas de contenu ou ne cautionnez pas quelqu’un ou quelque chose en échange d’un avantage personnel (y compris des relations personnelles ou familiales, un paiement monétaire, des produits ou services gratuits, ou toute autre valeur), sauf si vous avez inclus un avis clair et bien visible dévoilant l’avantage personnel reçu et que vous vous conformez à nos [Politiques relatives aux publicités](https://www.linkedin.com/legal/ads-policy). 
     
-    LinkedIn's mission is to connect the world's professionals o make them more productive and successful. We allow broad conversations about the world of work, but require professional expression. To maintain a professional platform, members should treat each other with respect and civility. Do not interact with others or share content in a way that's uncivil, inappropriate, or disrespectful.
+    En savoir plus sur notre [politique en matière de contenu faux ou trompeur](https://www.linkedin.com/help/linkedin/answer/137371)**.**
     
-    **Do not be hateful.** We don't allow content that attacks, denigrates, intimidates, dehumanizes, incites or threatens hatred, violence, prejudicial or discriminatory action against individuals or groups because of their actual or perceived race, ethnicity, national origin, caste, gender, gender identity, sexual orientation, religious affiliation, age, or disability status. Hate groups are not permitted on LinkedIn. Do not use racial, religious, or other slurs that incite or promote hatred, or any other content intended to create division. Do not post or share content that denies a well-documented historical event such as the Holocaust or slavery in the United States.
+    **Ne créez pas de faux profil et ne falsifiez pas des informations vous concernant :** tout faux profil ou fausse entité est interdit. Ne publiez pas d’informations trompeuses ou fallacieuses sur vous-même, votre entreprise, vos qualifications, votre expérience professionnelle, vos affiliations ou vos réalisations. N’utilisez pas la photo de quelqu’un d’autre ou toute autre image qui ne vous représente pas comme [photo de profil](https://www.linkedin.com/help/linkedin/answer/430). Ne vous associez pas sur LinkedIn à une entreprise ou organisation à laquelle vous n’êtes pas réellement associé. N’utilisez pas ou n’essayez pas d’utiliser le compte LinkedIn d’une autre personne ou de créer un profil de membre pour toute autre personne que vous-même. Ne partagez votre compte LinkedIn avec personne.
     
-    Learn more about our [hateful and derogatory content policies](https://www.linkedin.com/help/linkedin/answer/137378)**.**
+    **Ne vous livrez pas aux arnaques, aux fraudes et aux tromperies :** n’utilisez pas LinkedIn pour faciliter des arnaques sentimentales ni promouvoir des systèmes pyramidaux ou des membres frauduleux. Ne partagez pas de logiciels malveillants qui pourraient mettre nos membres, notre plateforme ou nos services en danger. Les tentatives de phishing (hameçonnage) sont interdites.
     
-    **Do not engage in sexual innuendos or unwanted advances.** We don't allow unwanted expressions of attraction, desire, requests for romantic relationship, marriage proposals, sexual advances or innuendo, or lewd remarks. LinkedIn is a professional networking platform, not a dating site. Do not use LinkedIn to pursue romantic connections, ask for romantic dates, or provide sexual commentary on someone's appearance or perceived attractiveness. Do not send unwanted advances in messages, posts, or comments or send sexually explicit images to anyone on the platform.
+    En savoir plus sur nos [politiques en matière d’arnaques et de contenu frauduleux](https://www.linkedin.com/help/linkedin/answer/137377)**.**
     
-    Learn more about our [sexual harassment and unwanted advances policy](https://www.linkedin.com/help/linkedin/answer/137370)**.**
+*   Professionnalisme
+    -----------------
     
-    **Do not share harmful or shocking material.** We don't allow content that is excessively gruesome or shocking. This includes content that is sadistic or gratuitously graphic, such as the depiction of bodily injury, severe physical or sexual violence. We don't allow content, activities, or events that promote, organize, depict, or facilitate criminal activity. We also don't allow content depicting or promoting instructional weapon making, drug abuse, and threats of theft. Do not engage in or promote escort services, prostitution, exploitation of children, or human trafficking. Do not share content or activities that promote or encourage suicide or any type of self-injury, including self-mutilation and eating disorders. If you see signs that someone may be considering self-harm, please report it using our reporting tools and consider also reporting it to your local law enforcement authorities.
+    La mission de LinkedIn est de connecter les professionnels du monde entre eux pour améliorer leur productivité. Nous autorisons les discussions générales sur le monde du travail, mais exigeons une expression professionnelle. Pour que notre plateforme reste professionnelle, les membres doivent se traiter mutuellement avec respect et courtoisie. N’interagissez pas avec d’autres personnes et ne partagez pas de contenu de manière discourtoise, inappropriée ou irrespectueuse.
     
-    Learn more about our [violent and graphic content policies](https://www.linkedin.com/help/linkedin/answer/137374)**.**
+    **Ne tenez pas de propos haineux :** nous interdisons tout contenu qui attaque, dénigre, intimide, déshumanise, menace de ou incite à des actes de haine, de violence, discriminatoires ou attentatoires contre des individus ou des groupes en raison de leur appartenance ethnique réelle ou supposée, leur couleur de peau, leur origine nationale, leur sexe, leur identité de genre, leur orientation sexuelle, leur affiliation religieuse, leur âge ou leur statut de handicap. Les groupes haineux ne sont pas autorisés sur LinkedIn. N’utilisez sous aucun prétexte les insultes racistes, religieuses ou autres qui incitent à ou promeuvent la haine, ni tout autre contenu destiné à créer la division. Ne publiez pas et ne partagez pas de contenu niant un événement historique documenté, comme l’Holocauste ou l’esclavage aux États-Unis.
     
-    **Do not spam members or the platform.** We don't allow untargeted, irrelevant, obviously unwanted, unauthorized, in appropriately commercial or promotional, or gratuitously repetitive messages or similar content. Do not use our invitation feature to send promotional messages to people you don't know or to otherwise spam people. Please make the effort to create original, professional, relevant, and interesting content in order to gain engagement. Don't do things to artificially increase engagement with your content. Respond authentically to others’ content and don’t agree with others ahead of time to like or re-share each other’s content.
+    En savoir plus sur nos [politiques en matière de contenu haineux et dénigrant](https://www.linkedin.com/help/linkedin/answer/137378)**.**
     
-    Learn more about our [spam content policies](https://www.linkedin.com/help/linkedin/answer/137372).
+    **Ne faites pas d’allusions sexuelles ou d’avances non consensuelles :** nous interdisons les expressions indésirables d’une attirance ou de désir, les demandes de relation amoureuse, les propositions de mariage, les avances ou allusions sexuelles et les remarques lubriques. LinkedIn est une plateforme de réseautage professionnel, pas un site de rencontres. N’utilisez pas LinkedIn dans le but d’établir des relations romantiques, de demander des rendez-vous galants, ou de formuler des commentaires à caractère sexuel sur l’apparence de quelqu’un ou son charme supposé. Ne formulez pas d’avances indésirables dans des messages, posts ou commentaires et n’envoyez pas d’images sexuellement explicites sur la plateforme.
+    
+    En savoir plus sur notre [politique en matière de harcèlement sexuel et d’avances indésirables](https://www.linkedin.com/help/linkedin/answer/137378)**.**
+    
+    **Ne partagez pas de contenu nuisible ou choquant :** tout contenu excessivement macabre ou choquant est interdit. Ceci inclut tout contenu sadique ou qui cherche à choquer, tel que la représentation de blessures corporelles ou violences sexuelles ou physiques graves. Tout contenu, activité ou événement qui promeut, organise, dépeint ou favorise les activités criminelles est interdit. Nous interdisons également tout contenu représentant ou promouvant la fabrication d’armes, la toxicomanie et les menaces de vol. Ne vous livrez pas à et ne promouvez pas de services d’escorte, la prostitution, l’exploitation d’enfants ou la traite d’êtres humains. Ne partagez pas de contenu ou d’activités qui promeuvent ou encouragent le suicide ou tout type de blessures auto-infligées, comme l’automutilation et les troubles alimentaires. Si vous êtes témoin de signes indiquant qu’une personne pourrait se faire du mal, veuillez le signaler en utilisant nos outils de signalement. Pensez également à prévenir votre police locale.
+    
+    En savoir plus sur nos [politiques en matière de contenu violent et choquant](https://www.linkedin.com/help/linkedin/answer/137374)**.**
+    
+    **Ne spammez pas les membres ou la plateforme :** les messages non ciblés, non pertinents, manifestement indésirables, non autorisés, commerciaux ou promotionnels de manière inappropriée, ainsi que les messages répétitifs gratuitement ou tout autre contenu similaire ne sont pas autorisés. N’utilisez pas notre fonctionnalité d’invitation pour envoyer des messages promotionnels à des personnes que vous ne connaissez pas ou pour spammer. Veuillez faire l’effort de créer du contenu original, professionnel, pertinent et intéressant afin d’obtenir de l’engagement. N’effectuez pas des actions dans le but d’augmenter artificiellement l’engagement avec votre contenu. Répondez au contenu d’autrui avec authenticité et ne vous mettez pas d’accord avec d’autres personnes en amont pour aimer ou repartager mutuellement votre contenu.
+    
+    En savoir plus sur nos [politiques en matière de spam](https://www.linkedin.com/help/linkedin/answer/137372).
