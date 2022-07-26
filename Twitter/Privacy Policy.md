@@ -1,377 +1,374 @@
-Twitter Privacy Policy
-======================
+Politique de confidentialité de Twitter
+=======================================
 
   
 
-**Effective: June 10, 2022**
+**Date d’effet : 10 juin 2022**
 
-Before you scroll, read this
-----------------------------
+Avant de faire défiler ce document, veuillez lire ce qui suit
+-------------------------------------------------------------
 
-It’s really hard to make everyone happy with a Privacy Policy. Most people who use Twitter want something short and easy to understand. While we wish we could fit everything you need to know into a Tweet, our regulators ask us to meet our legal obligations by describing them all in a lot of detail.
+Il est très difficile de définir une Politique de confidentialité qui rencontre l’adhésion générale. La plupart des utilisateurs de Twitter veulent disposer d’un texte bref et facile à comprendre. Alors que nous voudrions dire en un seul Tweet tout ce que vous devez savoir, nos autorités de régulation nous demandent de respecter nos obligations légales en décrivant celles-ci de manière très détaillée.
 
-With that in mind, we’ve written our Privacy Policy as simply as possible to empower you to make informed decisions when you use Twitter by making sure you understand and have control over the information we collect, how it’s used, and when it’s shared. 
+C’est en gardant cette situation à l’esprit que nous avons rédigé cette Politique de confidentialité de manière aussi simple que possible afin de vous permettre de prendre des décisions éclairées lorsque vous utilisez Twitter, en veillant à ce que vous compreniez et contrôliez les informations que nous collectons, leurs modalités d’utilisation et les occasions auxquelles elles sont communiquées. 
 
-So if you skip reading every word of the Privacy Policy, at least know this:
+Ainsi, si vous décidez de ne pas lire cette Politique de confidentialité dans son intégralité, soyez au moins informés de ce qui suit :
 
-**Twitter is a public platform**
+**Twitter est une plateforme publique**
 
-**[Learn what’s viewable & searchable](#twitter-privacy-3.1 "3.1 When you Tweet, post, and share.")**
+**[Apprenez ce qui peut être consulté et faire l’objet de recherches](#twitter-privacy-3.1 "3.1 Quand vous Tweetez, mettez en ligne et partagez")**
 
-**We collect some data  
-about you**
+**Nous collectons certaines données  
+vous concernant**
 
-**[Learn what we collect & how](#twitter-privacy-1 "1. Information We Collect")**
+**[Informez-vous des données que nous collectons et des modalités correspondantes](#twitter-privacy-1 "1. Informations que nous collectons")**
 
-**Affiliate services may have their own policies**
+**Les services affiliés peuvent avoir leurs propres politiques**
 
-**[Learn about affiliates](https://help.twitter.com/en/rules-and-policies/twitter-services-and-corporate-affiliates "Affiliates on help.twitter.com")**
+**[Informez-vous à propos des entités affiliées](https://help.twitter.com/fr/rules-and-policies/twitter-services-and-corporate-affiliates "Entités affiliées sur help.twitter.com")**
 
-**We use your data to make Twitter better**
+**Nous utilisons vos données afin d’améliorer Twitter**
 
-[**Learn how we make your info work**](#twitter-privacy-2 "2.1 Operate, improve, and personalize our services.")
+[**Apprenez comment nous utilisons vos informations**](#twitter-privacy-2 "2.1 Exploiter, améliorer et personnaliser nos services.")
 
-**You can control your experience**
+**Vous pouvez contrôler votre expérience**
 
-**[Learn how to update your settings](https://twitter.com/settings/account "View your settings on Twitter.com")**
+**[Apprenez comment mettre vos paramètres à jour](https://twitter.com/settings/account "Vérifiez vos paramètres sur Twitter.com")**
 
-**If you have questions about how we use data, just ask**
+**Si vous avez des questions relatives à la manière dont nous utilisons les données, n’hésitez pas à les poser**
 
-[**Learn how to contact us**](#twitter-privacy-9.1 "How to contact Twitter")
+[**Découvrez comment nous contacter**](#twitter-privacy-9.1)
 
-###### Seriously — what happens with my data?
-
-  
-
-What data do you collect about me?
-----------------------------------
-
-**You give some data, we get some data. In return we offer useful services. Not what you had in mind? Check your settings.**
-
-**1\. Information We Collect**
-
-The information we collect when you use Twitter falls into three categories.
-
-Expand dropdowns for more information:
-
-### 1.1 Information you provide us.
-
-  
-To use some of our products and services you need to have an account, and to create an account, you need to provide us certain information. Likewise, if you use our paid products and services, we cannot provide them to you without getting payment information. Basically, certain information is necessary if you want to use many of our products and services.
-
-*   **Personal Accounts.** If you create an account, you must provide us with some information so that we can provide our services to you. This includes a display name (for example, “Twitter Moments”); a username (for example, @TwitterMoments); a password; an email address or phone number; a date of birth; your display language; and third-party single sign-in information (if you choose this sign-in method). You can also choose to share your location in your profile and Tweets, and to upload your address book to Twitter to help find people you may know. Your profile information, which includes your display name and username, is always public, but you can use either your real name or a pseudonym. And remember, you can create multiple Twitter accounts, for example, to express different parts of your identity, professional or otherwise. 
-    
-*   **Professional Accounts.** If you create a [professional account](https://business.twitter.com/en/help/account-setup/professional-accounts.html), you also need to provide us with a professional category, and may provide us with other information, including street address, contact email address, and contact phone number, all of which will always be public. 
-    
-*   **Payment Information.** In order to purchase ads or other offerings provided as part of our paid products and services you will need to provide us payment information, including your credit or debit card number, card expiration date, CVV code, and billing address.
-    
-*   **Preferences.** When you set your preferences using your [settings](https://twitter.com/settings/), we collect that information so that we can respect your preferences.
-    
+###### Que se passe-t-il réellement avec mes données  ?
 
   
 
-### 1.2 Information we collect when you use Twitter.
+Quelles sont les données que vous recueillez à mon sujet ?
+----------------------------------------------------------
 
-When you use our services, we collect information about how you use our products and services. We use that information to provide you with products and services, to help keep Twitter more secure and respectful for everyone, and more relevant to you.  
+**Vous fournissez certaines données et nous recevons certaines données. En contrepartie, nous offrons des services utiles. Ce n’est pas ce que vous aviez en tête ? Vérifiez vos paramètres.**
+
+**1\. Informations que nous collectons**
+
+Les informations que nous collectons quand vous utilisez Twitter peuvent être classées en trois catégories.
+
+Développez les menus pour obtenir davantage d’informations :
+
+### 1.1 Informations que vous nous fournissez.
+
+  
+Afin de pouvoir utiliser certains de nos produits et services, vous devez disposer d’un compte ; pour créer celui-ci, vous devez nous fournir certaines informations. De même, si vous utilisez nos produits et services payants, nous ne pouvons vous les fournir sans obtenir des informations de paiement. Tout simplement, certaines informations sont nécessaires si vous voulez utiliser nombre de nos produits et services.
+
+*   **Comptes personnels.** Si vous créez un compte, vous devez nous fournir certaines informations pour que nous puissions vous offrir nos services. Celles-ci comprennent un nom d’affichage (par exemple « Twitter Moments »), un nom d’utilisateur (par exemple @TwitterMoments) ; un mot de passe, une adresse e-mail ou un numéro de téléphone, une date de naissance, votre langue d’affichage ainsi que des éléments relatifs à un identifiant tiers unique (si vous choisissez cette méthode d’identification). Vous pouvez également choisir de communiquer votre localisation dans votre profil et dans vos Tweets et de télécharger votre carnet d’adresses sur Twitter afin de vous permettre de trouver des personnes que vous pourriez connaître. Les éléments relatifs à votre profil, qui incluent votre nom d’affichage et votre nom d’utilisateur sont toujours publics, mais vous pouvez utiliser votre vrai nom ou un pseudonyme. Aussi, n’oubliez pas que vous pouvez créer des comptes Twitter multiples, notamment afin d’exprimer différentes facettes de votre identité, professionnelle ou autre. 
+    
+*   **Comptes professionnels.** Si vous créez un [compte professionnel](https://business.twitter.com/fr/help/account-setup/professional-accounts.html), vous devez également nous communiquer une catégorie professionnelle, et vous pouvez nous fournir d’autres informations, dont votre adresse postale, l’adresse e-mail et le numéro de téléphone auxquels vous pouvez être contacté, tous ces éléments étant toujours publics. 
+    
+*   **Informations relatives aux Paiements.** Afin d’acheter des publicités ou autres éléments de notre offre de produits et services payants, vous devez nous communiquer des informations de paiement, et notamment votre numéro de carte de crédit ou de débit, la date d’expiration de votre carte, votre code CVV ainsi que votre adresse de facturation.
+    
+*   **Préférences.** Lorsque vous programmez vos préférences au moyen de vos [paramètres](https://twitter.com/settings/), nous collectons ces informations de manière à pouvoir respecter vos choix.
+    
+
+  
+
+### 1.2 Informations que nous collectons lorsque vous utilisez Twitter.
+
+Quand vous utilisez nos services, nous recueillons des informations relatives à la manière dont vous utilisez nos produits et services. Nous utilisons ces informations afin de vous fournir nos produits et services, de permettre de rendre Twitter plus sûr et plus respectueux pour chacun et plus pertinent pour vous.  
  
+
+**Informations relatives à l’utilisation.** Nous recueillons des informations relatives à votre activité sur Twitter, y compris :
+
+*   les Tweets et autres contenus que vous mettez en ligne (dont la date, l’application et la version de Twitter) ainsi que des informations relatives à votre activité de diffusion (p.ex. TwitterLive ou Spaces), y compris les diffusions que vous avez créées ainsi que la date à laquelle vous les avez créées, vos listes, favoris, et les communautés auxquelles vous appartenez.
+*   Vos interactions avec les contenus des autres utilisateurs, comme les retweets, likes, partages ou réponses, si d’autres utilisateurs vous mentionnent ou vous identifient dans leur contenu ou si, au contraire, vous les mentionnez ou les identifiez, ainsi que les diffusions auxquelles vous avez participé (y compris votre historique de visualisation, d’écoute, de commentaire, de prise de parole et vos réactions).
+*   ○ La manière dont vous interagissez avec les autres sur la plateforme, et notamment les personnes que vous suivez et celles qui vous suivent, ainsi que votre utilisation des [Messages Directs](https://help.twitter.com/using-twitter/direct-messages), y compris les contenus des messages, leurs destinataires, et la date et l’heure des messages.
+*   Si vous communiquez avec nous, notamment par e-mail, nous collecterons des informations relatives à la communication et à son contenu.
+*   Nous collectons des informations sur les liens avec lesquelles vous interagissez pour l’ensemble de nos services (y compris dans nos e-mails qui vous sont adressés).
+
+**Achat et paiements.** Afin de vous permettre d’effectuer un paiement ou d’envoyer des fonds au moyen des fonctionnalités ou services Twitter, y compris par un intermédiaire, nous pouvons recevoir des informations relatives à votre transaction, comme la date à laquelle elle a été réalisée, la date d’expiration ou de renouvellement automatique d’un abonnement ainsi que tous montants versés ou reçus.
+
+**Informations relatives à votre équipement.** Nous collectons des informations en provenance des appareils que vous utilisez afin d’accéder à Twitter ainsi que des éléments relatifs à ces appareils, et notamment :
+
+*   Des informations portant sur votre connexion, comme votre adresse IP et votre type de navigateur.
+*   Des informations relatives à votre appareil et à ses paramètres, comme son identifiant d’appareil et son identifiant publicitaire, le système d’exploitation, l’opérateur, la langue, la mémoire, les applications installées et le niveau de batterie.
+*   Le carnet d’adresses de votre appareil, si vous avez choisi de le partager avec nous.
+
+**Informations de localisation.** Lorsque vous utilisez Twitter, nous collectons certaines informations relatives à votre localisation approximative, afin de pouvoir vous fournir le service que vous attendez, et notamment de vous monter des publicités pertinentes. Vous pouvez également choisir, en activant les paramètres correspondants sur votre compte, de nous informer de votre positionnement actuel exact ou des lieux à partir desquels vous avez utilisé Twitter dans le passé.
 
 **  
-Usage Information.** We collect information about your activity on Twitter, including:
+Identité déduite.** Nous pouvons collecter ou recevoir des informations que nous utilisons afin de déduire votre identité comme indiqué ci-dessous :  
 
-*   Tweets and other content you post (including the date, application, and version of Twitter) and information about your broadcast activity (e.g., TwitterLive or Spaces), including broadcasts you’ve created and when you created them, your lists, bookmarks, and communities you are a part of.
-*   Your interactions with other users’ content, such as retweets, likes, shares, replies, if other users mention or tag you in content or if you mention or tag them, and broadcasts you’ve participated in (including your viewing history, listening, commenting, speaking, and reacting).
-*   How you interact with others on the platform, such as people you follow and people who follow you, and when you use [Direct Messages](https://help.twitter.com/using-twitter/direct-messages), including the contents of the messages, the recipients, and date and time of messages.
-*   If you communicate with us, such as through email, we will collect information about the communication and its content.
-*   We collect information on links you interact with across our services (including in our emails sent to you).
+*   Lorsque vous vous connectez à Twitter avec un navigateur ou un appareil, nous associons celui-ci à votre compte. Sous réserve de vos paramètres, nous pouvons également associer votre compte à des navigateurs ou appareils autres que ceux que vous utilisez pour vous connecter à votre compte Twitter (ou associer votre appareil ou navigateur déconnecté à d’autres navigateurs ou identifiants générés par Twitter).
+*   Lorsque vous fournissez d’autres informations à Twitter, y compris une adresse e-mail ou un numéro de téléphone, nous associons ces informations à votre compte Twitter. Sous réserve de vos paramètres, nous pouvons également utiliser ces informations afin d’en déduire d’autres informations relatives à votre identité, par exemple en associant votre compte à des hachages d’adresses e-mail qui partagent des éléments communs avec l’adresse e-mail que vous avez fournie à Twitter.
+*   Lorsque vous accédez à Twitter sans être connecté, nous pouvons déduire votre identité des informations que nous collectons.
 
-**Purchase and payments.** To allow you to make a payment or send money using Twitter features or services, including through an intermediary, we may receive information about your transaction such as when it was made, when a subscription is set to expire or auto-renew, and amounts paid or received.
+**Informations de journal.** Nous pouvons recevoir des informations lorsque vous visualisez des contenus ou que vous interagissez de toute autre manière avec nos produits et services, même si vous n’avez pas créé de compte ou si vous vous êtes déconnecté, et notamment :
 
-**Device Information.** We collect information from and about the devices you use to access Twitter, including:
-
-*   Information about your connection, such as your IP address and browser type.
-*   Information about your device and its settings, such as device and advertising ID, operating system, carrier, language, memory, apps installed, and battery level.
-*   Your device address book, if you’ve chosen to share it with us.
-
-**Location Information.** When you use Twitter, we collect some information about your approximate location to provide the service you expect, including showing you relevant ads. You can also choose to share your current precise location or places where you’ve previously used Twitter by enabling these settings in your account.
+*   L’adresse IP ; le type de navigateur et la langue  ; le système d’exploitation ; la page Internet d’où vous venez ; les durées des accès ; les pages visitées ; l’emplacement ; votre opérateur téléphonique ; les informations relatives à l’appareil (y compris l’identifiant de l’appareil et de l’application) ; les termes et identifiants de recherche (y compris ceux qui n’ont pas été soumis en tant que requêtes) ; les publicités qui vous ont été montrées sur Twitter ; les identifiants générés par Twitter et les identifiants associés à des cookies. Nous recevons également des informations de journal quand vous cliquez sur, visualisez ou interagissez avec des liens présents sur nos services y compris quand vous installez une autre application grâce à Twitter.
 
 **  
-Inferred Identity.** We may collect or receive information that we use to infer your identity as detailed below:  
+Publicités.** Lorsque vous visualisez des publicités que nous diffusons sur Twitter ou hors de Twitter ou interagissez avec celles-ci, nous pouvons collecter des informations relatives à ces vues ou interactions (p.ex., lecture d’une publicité vidéo ou de publicité préalable à la lecture d’une vidéo (pre-roll) , clic sur une publicité, interaction avec des retweets d’une publicité ou réponses à celle-ci).   
 
-*   When you sign into Twitter on a browser or device, we will associate that browser or device with your account. Subject to your settings, we may also associate your account with browsers or devices other than those you use to sign into Twitter (or associate your signed-out device or browser with other browsers or devices or Twitter-generated identifiers).
-*   When you provide other information to Twitter, including an email address or phone number, we associate that information with your Twitter account. Subject to your settings, we may also use this information in order to infer other information about your identity, for example by associating your account with hashes of email addresses that share common components with the email address you have provided to Twitter.
-*   When you access Twitter and are not signed in, we may infer your identity based on the information we collect.
+**Cookies et technologies similaires.** Tout comme de nombreux sites Internet, nous recourons à des cookies et à des technologies similaires afin d’obtenir des données supplémentaires d’utilisation du site Internet et de nous aider à exploiter nos services. Les cookies ne sont pas nécessaires pour de nombreuses parties de nos produits et services, comme la recherche et la consultation des profils publics. Pour plus d’informations quant à notre utilisation des cookies et technologies similaires, veuillez vous reporter [ici](https://help.twitter.com/rules-and-policies/twitter-cookies).
 
-**Log Information.** We may receive information when you view content on or otherwise interact with our products and services, even if you have not created an account or are signed out, such as:
-
-*   IP address; browser type and language; operating system; the referring webpage; access times; pages visited; location; your mobile carrier; device information (including device and application IDs); search terms and IDs (including those not submitted as queries); ads shown to you on Twitter; Twitter-generated identifiers; and identifiers associated with cookies. We also receive log information when you click on, view, or interact with links on our services, including when you install another application through Twitter.
-
-**  
-Advertisements.** When you view or interact with ads we serve on or off Twitter, we may collect information about those views or interactions (e.g., watching a video ad or preroll, clicking on an ad, interacting with retweets of or replies to an ad).   
-
-**Cookies and similar technologies.** Like many websites, we use cookies and similar technologies to collect additional website usage data and to operate our services. Cookies are not required for many parts of our products and services such as searching and looking at public profiles. You can learn more about how we use cookies and similar technologies [here](https://help.twitter.com/rules-and-policies/twitter-cookies).
-
-**Interactions with our content on third-party sites.** When you view our content on third-party websites that integrate Twitter content such as embedded timelines or Tweet buttons, we may receive log information that includes the web page you visited.  
+**Interactions avec notre contenu sur des sites tiers.** Lorsque vous visualisez notre contenu sur des sites tiers intégrant du contenu Twitter, tels des fils d’actualité intégrés ou boutons de Tweet, nous pouvons recevoir des informations de journal comprenant la page Web que vous avez visité.  
  
 
-### 1.3 Information we receive from third parties.
+### 1.3 Informations que nous recevons de tiers.
 
   
-When you use other online products and services, they may share information about that usage with us.**  
-  
-Ad Partners, Developers, Publishers.** Our ad and business partners share information with us such as browser cookie IDs, Twitter-generated identifiers,mobile device IDs, hashed user information like email addresses, demographic or interest data, and content viewed or actions taken on a website or app. Some of our ad partners, particularly our advertisers, also enable us to collect similar information directly from their website or app by integrating our advertising technology. Information shared by ad partners and affiliates or collected by Twitter from the websites and apps of ad partners and affiliates may be combined with the other information you share with Twitter and that Twitter receives, generates, or infers about you described elsewhere in this Privacy Policy.
+Lorsque vous utilisez d’autres produits et services en ligne, ceux-ci peuvent nous communiquer des informations relatives à cette utilisation.**Partenaires publicitaires, développeurs, éditeurs.** Nos partenaires publicitaires et commerciaux nous communiquent des informations et notamment des identifiants de cookies de navigateurs, des identifiants générés par Twitter,des identifiants d’appareils mobiles, des informations hachées d’utilisateurs, comme des adresses e-mail, des données statistiques ou des indications de centres d’intérêt, des contenus visualisés ou des actions effectuées sur un site Internet ou une application. Certains de nos partenaires publicitaires, et en particulier nos annonceurs, nous permettent également de collecter des informations similaires directement sur leur site Internet ou sur leur application, en y intégrant notre technologie publicitaire. Les informations partagées par les partenaires publicitaires et les sociétés affiliées ou les données collectées par Twitter à partir des sites Web et des applications de nos partenaires publicitaires et sociétés affiliées peuvent être combinées avec les autres informations que vous partagez avec Twitter et que Twitter reçoit, génère ou déduit en ce qui vous concerne, telles que décrites par ailleurs dans cette Politique de confidentialité.
 
-**Other Third Parties, Account Connections, and Integrations.** We may receive information about you from third parties who are not our ad partners, such as other Twitter users, developers, and partners who help us evaluate the safety and quality of content on our platform, our [corporate affiliates](https://help.twitter.com/rules-and-policies/twitter-services-and-corporate-affiliates), and other services you link to your Twitter account. You may choose to connect your Twitter account to your account on another service, and that other service may send us information about your account on that service.  
+**Autres tiers, connexions aux comptes et intégrations.** Nous pouvons recevoir des informations vous concernant auprès de tiers autres que nos partenaires commerciaux, et notamment auprès d’autres utilisateurs Twitter, de développeurs, et de partenaires qui nous aident à évaluer la sécurité et la qualité du contenu sur notre plateforme, nos [sociétés affiliées](https://help.twitter.com/rules-and-policies/twitter-services-and-corporate-affiliates) ainsi que d’autres services que vous reliez à votre compte Twitter. Vous pouvez choisir de connecter votre compte Twitter à votre comptes sur un autre service, et cet autre service peut nous envoyer des informations se rapportant à votre compte sur ce service.  
  
 
-How do you use my information?
-------------------------------
-
-**To make Twitter the service you know and love.**
-
-**2\. How We Use Information**
-
-Breaking down how we use the information we collect is not simple because of the way the systems that bring our services to you work. For example, the same piece of information may be used differently for different purposes to ultimately deliver a single service. We think it’s most useful to describe the five main ways we use information and if you have questions that are not answered, you can always [contact us](https://help.twitter.com/forms/privacy). Here we go:
-
-Expand dropdowns for more information:  
- 
-
-### 2.1 Operate, improve, and personalize our services.
-
-  
-We use the information we collect to provide and operate Twitter products and services. We also use the information we collect to improve and personalize our products and services so that you have a better experience on Twitter, including by showing you more relevant content and ads, suggesting people and topics to follow, enabling and helping you discover [affiliates](https://help.twitter.com/rules-and-policies/twitter-services-and-corporate-affiliates), third-party apps, and services.   
-  
-We may use the information we collect from accounts of other services that you choose to connect your Twitter account to provide you features like cross-posting or cross-service authentication, and to operate our services.
-
-We use your contact information to help others find your account if your settings permit, including through third-party services and client applications.
-
-We use your information to provide our advertising and sponsored content services subject to your [settings](https://twitter.com/settings/account), which helps make ads on Twitter more relevant to you. We also use this information to measure the effectiveness of ads and to help recognize your devices to serve you ads on and off of Twitter. Some of our ad partners also enable us to collect similar information directly from their website or app by integrating our advertising technology. Information shared by ad partners and affiliates or collected by Twitter from the websites and apps of ad partners and affiliates may be combined with the other information you share with Twitter and that Twitter receives, generates, or infers about you, as described elsewhere in our Privacy Policy.
-
-### 2.2 Foster safety and security.
-
-  
-We use information we collect to provide for the safety and security of our users, our products, services, and your account. This includes verifying your identity, authenticating your account, and defending against fraud, unauthorized use, and illegal activity. We also use the information to evaluate and affect the safety and quality of content on Twitter - this includes investigating and enforcing our policies and and terms, as well as applicable law.  
- 
-
-### 2.3 Measure, analyze and make our services better.
-
-  
-We use the information we collect to measure and analyze the effectiveness of our products and services and to better understand how you use them in order to make them better.
-
-### 2.4 Communicate with you about our services.
-
-  
-We use the information we collect to communicate with you about our products and services, including about product updates and changes to our policies and terms. If you’re open to hearing from us, we may also send you marketing messages from time to time.
-
-### 2.5 Research.
-
-  
-We use information you share with us, or that we collect to conduct research, surveys, product testing, and troubleshooting to help us operate and improve our products and services.
-
-###### My Tweets are public?!?
-
-  
-
-How or when do you share my information?
+Comment utilisez-vous mes informations ?
 ----------------------------------------
 
-**There’s no quick answer to this one, but heads up: Tweets can end up in the news or a search engine.**
+**Pour faire de Twitter le service que vous connaissez et aimez.**
 
-**3\. Sharing Information**
+**2\. Comment utilisons-nous les informations ?**
 
-You should know the ways we share your information, why we share it, and how you can control it. There are five general ways we share your information.
+En raison du mode de fonctionnement des systèmes qui nous permettent de vous fournir nos services, il n’est pas facile de classer en diverses catégories la manière dont nous utilisons les informations que nous collectons. Ainsi, la même information peut être utilisée différemment à des finalités variées afin de rendre en fin de compte un service unique. Nous pensons qu’il est plus utile de décrire les cinq principales façons dont nous utilisons ces informations. Pour toutes questions auxquelles vous n’obtiendriez pas de réponse, n’hésitez pas à nous [contacter](https://help.twitter.com/forms/privacy). C’est parti :
 
-Expand dropdowns for more information:  
+Développez les menus pour plus d’informations :  
  
 
-### 3.1 When you Tweet, post, and share.
+### 2.1 Exploiter, améliorer et personnaliser nos services.
+
+  
+Nous utilisons les informations que nous collectons afin de fournir et de gérer les produits et services Twitter. Nous utilisons également les informations afin d’améliorer et de personnaliser nos produits et services pour que vous puissiez bénéficier d’une meilleur expérience sur Twitter, notamment en vous montrons des contenus et publicités plus pertinents, en vous suggérant des personnes et sujets à suivre, en vous permettant et en vous aidant à découvrir des [entités affiliées](https://help.twitter.com/rules-and-policies/twitter-services-and-corporate-affiliates) ainsi que des applications et services tiers.   
+  
+Nous pouvons utiliser les informations que nous collectons en provenance de comptes rattachés à d’autres services que vous choisissez afin de connecter votre compte Twitter pour pouvoir vous offrir des fonctionnalités tels des multipostages ou authentifications croisées et afin de gérer nos services.
+
+Nous pouvons utiliser vos coordonnées afin d’aider des tiers à trouver votre compte si vos paramètres l’autorisent, notamment au moyen de services tiers et d’applications client.
+
+Nous utilisons vos informations afin de fournir nos services publicitaires et de contenu sponsorisé, sous réserve de vos [paramètres](https://twitter.com/settings/account), ce qui nous permet de vous présenter sur Twitter des publicités plus pertinentes. Nous utilisons également ces informations afin de mesurer l’efficacité des publicités et de pouvoir reconnaitre vos appareils afin de vous présenter des publicités sur Twitter et hors de Twitter. Certains de nos partenaires publicitaires nous permettent également de collecter des informations similaires directement sur leur site Internet ou sur leur application par intégration de notre technologie publicitaire. Les informations communiquées par nos partenaires publicitaires et entités affiliées ou collectées par Twitter sur leur site Internet ou sur leur application peuvent être combinées avec les autres données que vous partagez avec Twitter et que Twitter reçoit, génère ou déduit en ce qui vous concerne, telles que décrites par ailleurs dans notre Politique de confidentialité.
+
+### 2.2 Promouvoir la sûreté et la sécurité.
+
+  
+Nous utilisons les informations que nous collectons afin d’assurer la sûreté et la sécurité de nos utilisateurs, de nos produits et de nos services ainsi que celle de votre compte. Un tel effort passe par la vérification de votre identité, l’authentification de votre compte et la défense contre toute fraude, utilisation non autorisée et activité illégale. Nous utilisons également ces données afin d’évaluer et d’améliorer la sécurité et la qualité du contenu sur Twitter – ce qui inclut la réalisation d’enquêtes et l’application de nos politiques et de nos conditions ainsi que du droit en vigueur.  
+ 
+
+### 2.3 Mesure, analyse et amélioration de nos services.
+
+  
+Nous utilisons les informations que nous collectons afin de mesurer et d’améliorer l’efficacité de nos produits et services et de mieux comprendre la façon dont vous les utilisez afin de les rendre meilleurs.
+
+### 2.4 Communiquer avec vous à propos de nos services.
+
+  
+Nous utilisons les informations que nous collectons afin de communiquer avec vous à propos de nos produits et services, y compris les mises à jour de nos produits et les modifications de nos politiques et de nos conditions. Si vous y êtes ouvert, nous pouvons également vous adresser des messages marketing de temps en temps.
+
+### 2.5 Recherche.
+
+  
+Nous utilisons les informations que vous nous communiquez ou que nous collectons afin de réaliser des recherches, des enquêtes, des essais de produits et des dépannages afin de nous aider à exploiter et améliorer nos produits et services.
+
+###### Mes Tweets sont publics ?!?
+
+  
+
+Comment ou quand partagez-vous mes informations ?
+-------------------------------------------------
+
+**Il n’y a pas de réponse rapide à cette question, mais attention : tout Tweet peut se retrouver dans les journaux ou dans un moteur de recherche.**
+
+**3\. Partage d’informations**
+
+Vous devez connaître les modalités de partage de vos informations, les raisons pour lesquelles nous les partageons, et les moyens vous permettant d’exercer un contrôle sur ce partage. Il existe cinq modalités générales de partage de vos informations.
+
+Développez les menus pour plus d’informations :  
+ 
+
+### 3.1 Quand vous Tweetez, mettez en ligne et partagez
 
 **  
-With the general public**. You are directing us to disclose that information as broadly as possible. Twitter content, including your profile information (e.g., name/pseudonym, username, profile pictures), is available for viewing by the general public. The public does not need to be signed in to view much of the content on Twitter. They may also find Twitter content off of Twitter, for example from search query results on Internet search engines.  
+Avec le grand public**. Vous nous ordonnez de diffuser cette information aussi largement que possible. Les contenus Twitter, y compris les informations relatives à votre profil (p.ex., nom/pseudonyme, nom d’utilisateur, images de profil) sont disponibles et peuvent être consultés par le grand public. Le public n’est pas tenu de s’inscrire pour avoir accès à une bonne part du contenu sur Twitter. Il peut également trouver du contenu Twitter hors de Twitter, par exemple en provenance de résultats de requêtes sur des moteurs de recherche Internet.  
   
-**With other Twitter users.** Depending on your [settings](https://twitter.com/settings/account), and based on the Twitter products and services you use, we share:
+**Avec d’autres utilisateurs Twitter.** En fonction de vos [paramètres](https://twitter.com/settings/account) et des produits et services Twitter que vous utilisez, nous partageons :
 
-*   Your interactions with Twitter content of other users, such as likes, and people you follow.
-*   Content you send to a specific Twitter user, such as through [Direct Messages](https://help.twitter.com/using-twitter/direct-messages). Please keep in mind that if you’ve shared information like Direct Messages or protected Tweets with someone else who accesses Twitter through a third-party service, the information may be shared with the third-party service.
+*   Vos interactions avec le contenu Twitter d’autres utilisateurs, comme les likes et les personnes que vous suivez.
+*   Le contenu que vous adressez à un utilisateur Twitter spécifique notamment au moyen de [Messages Directs](https://help.twitter.com/using-twitter/direct-messages). Souvenez-vous que si vous partagez des informations comme des Messages Directs ou des Tweets protégés avec une autre personne qui accède à Twitter grâce à un service tiers, ces informations peuvent être communiquées à ce service tiers.
 
-**With partners.** Depending on your [settings](https://twitter.com/settings/account), we also provide certain third parties with information to help us offer or operate our products and services. You can learn more about these partnerships in our [Help Center](https://help.twitter.com/safety-and-security/data-through-partnerships). You can control whether Twitter shares your personal information with these partners by using the “Data sharing with business partners” option in your [Privacy & Safety settings](https://twitter.com/settings/privacy_and_safety). (This setting does not control sharing described elsewhere in this Privacy Policy, such as when we share information with our service providers, or through partnerships other than as described in this [Help Center](https://help.twitter.com/safety-and-security/data-through-partnerships) article.)  
+**Avec des partenaires.** En fonction de vos [paramètres](https://twitter.com/settings/account), nous pouvons également fournir à certains tiers des informations qui nous aident à offrir ou à exploiter nos produits et services. Vous pouvez obtenir davantage d’informations sur ces partenariats dans notre [Centre d’Assistance](https://help.twitter.com/safety-and-security/data-through-partnerships). Il vous est possible de contrôler si Twitter partage vos informations personnelles avec ces partenaires au moyen de l’option « Partage de données avec des partenaires commerciaux » dans vos [Paramètres de confidentialité et de sécurité](https://twitter.com/settings/privacy_and_safety). (Ce paramètre ne contrôle pas les échanges d’information décrits par ailleurs dans cette Politique de confidentialité, et notamment le partage d’informations avec nos prestataires de services ou dans le cadre de partenariats autres que ceux décrits dans l’article concerné du [Centre d’Assistance](https://help.twitter.com/safety-and-security/data-through-partnerships).)  
  
 
-### 3.2 With third parties & third-party integrations.
+### 3.2 Avec des tiers et intégrations tierces.
 
 **  
-With service providers.** We may share your information with our [service providers](https://privacy.twitter.com/subprocessors) that perform functions and provide services on our behalf, including payment services providers who facilitate payments; service providers that host our various blogs and wikis; service providers that help us understand the use of our services; and those that provide fraud detection services. 
+Avec des prestataires de services.** Nous pouvons communiquer vos informations à nos [prestataires de services](https://privacy.twitter.com/subprocessors) qui exercent des fonctions et fournissent des services pour notre compte, y compris des prestataires de services de paiement, des prestataires de services hébergeant nos divers blogues et wikis, des prestataires de services qui nous permettent de comprendre l’usage qui est fait de nos services, de même que des prestataires assurant des services de détection des fraudes. 
 
-**With advertisers.** Advertising revenue enables us to provide our products and services. Advertisers may learn information from your engagement with their ads on or off Twitter. For example, if you click on an external link or ad on our services, that advertiser or website operator might figure out that you came from Twitter, along with other information associated with the ad you clicked, such as characteristics of the audience it was intended to reach and other Twitter-generated identifiers for that ad. They may also collect other personal information from you, such as cookie identifiers, or your IP address.
+**Avec des annonceurs.** Les recettes publicitaires nous permettent de fournir nos produits et services. Il est possible que des annonceurs obtiennent des informations relatives à vos réactions à leurs messages publicitaires sur Twitter et hors Twitter. Par exemple, si vous cliquez sur un lien externe ou sur une publicité insérée sur nos services, il est possible que l’annonceur ou l’exploitant du site Internet en cause soit en mesure de conclure que vous êtes venu de Twitter, et d’en déduire d’autres informations associées à la publicité sur laquelle vous avez cliqué, comme les caractéristiques du public qu’elle avait vocation à atteindre et d’autres identifiants générés par Twitter pour cette publicité. Ils peuvent également collecter d’autres informations personnelles vous concernant, comme des identifiants de cookies, ou votre adresse IP.
 
-**Third-party content & integrations.** We share or disclose your information with your consent or at your direction, such as when you [authorize a third-party web client or application](https://help.twitter.com/managing-your-account/connect-or-revoke-access-to-third-party-apps?lang=browser) to access your account or when you direct us to share your feedback with a business. Similarly, to improve your experience, we work with third-party partners to display their video content on Twitter or to allow cross-platform sharing. When you watch or otherwise interact with content from our video or cross-platform sharing partners, they may receive and process your personal information as described in their privacy policies. For video content, you can adjust your[autoplay settings](https://twitter.com/settings/autoplay) if you prefer that content not to play automatically.
+**Contenu tiers et intégrations.** Nous partageons et divulguons vos informations avec votre accord ou sur vos instructions, comme notamment lorsque vous [autorisez un client Web tiers ou une application tierce](https://help.twitter.com/managing-your-account/connect-or-revoke-access-to-third-party-apps?lang=browser) à accéder à votre compte ou lorsque vous nous donnez pour instruction de communiquer vos données à une entreprise. De même, afin d’améliorer votre ressenti de nos produits et services, nous collaborons avec des partenaires tiers pour pouvoir afficher leur contenu vidéo sur Twitter ou permettre des partages entre plateformes. Lorsque vous regardez des contenus de nos vidéos ou de nos partenaires d’échange entre plateformes ou interagissez autrement avec ces vidéos ou contenus, ces partenaires peuvent recevoir et traiter vos informations personnelles de la manière décrite dans leurs propres politiques de confidentialité. Pour les contenus vidéo, vous pouvez ajuster vos [paramètres de lecture automatique](https://twitter.com/settings/autoplay) si vous préférez éviter leur déclenchement automatique.
 
-**Through our APIs.** We use technology like[APIs](https://help.twitter.com/rules-and-policies/twitter-api) and embeds to make public Twitter information available to websites, apps, and others for their use, for example, displaying Tweets on a news website or analyzing what people say on Twitter. We generally make this content available in limited quantities for free and charge licensing fees for large-scale access. We have [standard terms](https://developer.twitter.com/developer-terms) that govern how this information can be used, and a compliance program to enforce these terms. But these individuals and companies are not affiliated with Twitter, and their offerings may not reflect updates you make on Twitter. For more information about how we make public data on Twitter available to the world, visit [https://developer.twitter.com](https://developer.twitter.com/).  
+**Par l’intermédiaire de nos API.** Nous utilisons des technologies comme les[API](https://help.twitter.com/rules-and-policies/twitter-api) et les éléments intégrés afin de mettre des informations publiques de Twitter à la disposition de sites Internet, d’applications et d’autres personnes pour leur utilisation propre, par exemple pour l’affichage de Tweets sur un site d’information ou en vue de l’analyse des interventions du public sur Twitter. Nous mettons généralement ces contenus gratuitement à disposition en quantités limitées, et nous facturons des droits de licence en cas d’accès à grande échelle. Nous disposons de [conditions standard](https://developer.twitter.com/developer-terms) régissant les modalités d’utilisation de ces informations ainsi que d’un programme de conformité destiné à assurer leur bonne application. Mais ces personnes et ces sociétés ne sont pas affiliées à Twitter, et il est possible que leurs offres ne tiennent pas compte des mises à jour auxquelles vous procédez sur Twitter. Pour plus d’informations quant aux modalités de diffusion générale des données publiques de Twitter, reportez-vous à l’adresse suivante : [https://developer.twitter.com](https://developer.twitter.com/).  
  
 
-### 3.3 When required by law, to prevent harm, or in the public interest.
+### 3.3 Lorsque la loi l’impose, pour éviter un préjudice ou en vue de la poursuite de l’intérêt général.
 
   
-We may preserve, use, share, or disclose your information if we believe that it is reasonably necessary to:
+Nous pouvons préserver, utiliser, partager ou divulguer vos informations si nous pensons que ceci est raisonnablement nécessaire afin de :
 
-*   comply with a law, regulation, [legal process, or governmental request](https://help.twitter.com/rules-and-policies/twitter-law-enforcement-support);
+*   respecter une loi ou un règlement, [une procédure judiciaire](https://help.twitter.com/rules-and-policies/twitter-law-enforcement-support) ou une demande d’une autorité publique ;
     
-*   protect the safety of any person, protect the safety or integrity of our platform, including to help prevent spam, abuse, or malicious actors on our services;
+*   protéger la sécurité de toute personne, la sécurité ou l’intégrité de notre plateforme, notamment afin d’éviter les spams, les utilisations abusives, ou les interventions malveillantes sur nos services ;
     
-*   explain why we have removed content or accounts from our services (e.g., for a violation of [Twitter Rules](https://help.twitter.com/rules-and-policies/twitter-rules));
+*   expliquer pourquoi nous avons retiré du contenu ou des comptes de nos services (par exemple pour violation des [Règles de Twitter](https://help.twitter.com/rules-and-policies/twitter-rules)) ;
     
-*   address fraud, security, or technical issues; or
+*   réagir à des problèmes de fraude ou de sécurité ou gérer des questions techniques ; ou
     
-*   protect our rights or property, or the rights or property of those who use our services.
+*   protéger nos droits ou nos biens, ou les droits et biens des utilisateurs de nos services.
     
 
-### 3.4 With our Affiliates.
+### 3.4 Avec nos entités affiliées.
 
   
-We may share information amongst our [affiliates](https://help.twitter.com/rules-and-policies/twitter-services-and-corporate-affiliates) to provide our products and services.
+Nous pouvons partager des informations avec nos [entités affiliées](https://help.twitter.com/rules-and-policies/twitter-services-and-corporate-affiliates) afin de fournir nos produits et services.
 
-### 3.5 As a result of a change in ownership.
-
-  
-We may share, sell, or transfer information about you in connection with a merger, acquisition, reorganization, sale of assets, or bankruptcy. This Privacy Policy will apply to your personal information that is shared with (before and after the close of any transaction) or transferred to the new entity.
-
-###### Does data have an expiration date?
+### 3.5 En conséquence d’un changement d’actionnariat.
 
   
+Nous pouvons partager, vendre ou transférer des informations vous concernant dans le cadre d’une fusion, d’une acquisition, d’une réorganisation, d’une vente d’actifs ou d’une procédure collective. Cette Politique de confidentialité s’appliquera à vos informations personnelles partagées avec la nouvelle entité ou transférées à celle-ci (avant et après la réalisation de toute transaction).
 
-How long do you keep data?
---------------------------
+###### Existe-t-il une date d’expiration des données ?
 
-**Generally, we keep your data as long as your account is up.**
-
-**4\. How Long We Keep Information**  
   
-We keep different types of information for different periods of time: 
 
-*   We keep your profile information and content for the duration of your account.
-    
-*   We generally keep other personally identifiable data we collect when you use our products and services for a maximum of 18 months.
-    
-*   Remember public content can exist elsewhere even after you remove it from Twitter. For example, search engines and other third parties may retain copies of your Tweets longer, based upon their own privacy policies, even after they are deleted or expire on Twitter. You can read more about search visibility [here](https://help.twitter.com/safety-and-security/remove-twitter-profile-from-google-search).
-    
-*   Where you violate our Rules and your account is suspended, we may keep the identifiers you used to create the account (i.e., email address or phone number) indefinitely to prevent repeat policy offenders from creating new accounts.
-    
-*   We may keep certain information longer than our policies specify in order to comply with legal requirements and for safety and security reasons.
-    
+Combien de temps conservez-vous les données ?
+---------------------------------------------
 
-How can I control my data?
---------------------------
+**Nous conservons généralement les données aussi longtemps que votre compte est actif.**
 
-**You can access it, delete it, or change your settings. Basically, you’re the boss.**
-
-**5\. Take Control  
+**4\. Combien de temps conservons-nous des informations ?**  
   
-**Expand dropdowns for more information:  
+Nous conservons différents types d’information pendant des périodes différentes : 
+
+*   Nous conservons les informations relatives à votre profil ainsi que vos contenus pendant la durée de votre compte.
+    
+*   En règle générale, nous conservons pendant une période maximum de 18 mois les autres données personnellement identifiables que nous collectons lorsque vous utilisez nos produits et services.
+    
+*   Souvenez-vous que des contenus publics peuvent rester présents ailleurs, même après que vous les avez retirés de Twitter. Par exemple, des moteurs de recherche et d’autres tiers peuvent conserver plus longtemps des copies de vos Tweets sur la base de leurs propres politiques de confidentialité, même si vous les avez détruits ou s’ils ont expiré sur Twitter. Vous pouvez en savoir plus à propos de la visibilité dans les recherches en cliquant [ici](https://help.twitter.com/safety-and-security/remove-twitter-profile-from-google-search).
+    
+*   Lorsque vous violez nos Règles et que votre compte est suspendu, nous pouvons conserver les identifiants que vous avez utilisés pour créer le compte (à savoir votre adresse e-mail ou votre numéro de téléphone) sans limitation de durée afin d’éviter la création de nouveaux comptes par des récidivistes.
+    
+*   Nous pouvons conserver certaines informations plus longtemps que nos politiques le prévoient afin de respecter des exigences légales et pour des raisons de sûreté et de sécurité.
+    
+
+Comment puis-je contrôler mes données ?
+---------------------------------------
+
+**Vous pouvez y accéder ou les détruire ou encore modifier vos paramètres. En gros, c’est vous le patron.**
+
+**5\. Prenez le contrôle  
+  
+**Développez les menus pour plus d’informations :  
  
 
-### 5.1 Access, Correction, Portability.
+### 5.1 Accès, Rectification, Portabilité.
 
   
-You can access, correct, or modify the information you provided to us by editing your profile and adjusting your account [settings](https://twitter.com/settings/account).
+Vous pouvez accéder aux informations que vous nous avez fournies, les rectifier ou les modifier en révisant votre profil et en ajustant les [paramètres](https://twitter.com/settings/account) de votre compte.
 
-*   You can learn more about the information we have collected or inferred about you in[Your Twitter Data](https://twitter.com/settings/your_twitter_data) and request access to additional information[here](https://help.twitter.com/forms/privacy).
+*   Vous pouvez en savoir davantage sur les informations que nous avons obtenues ou déduites en ce qui vous concerne en consultant[Vos données Twitter](https://twitter.com/settings/your_twitter_data) et demander[ici](https://help.twitter.com/forms/privacy) à avoir accès à des informations supplémentaires.
     
-*   You can download a copy of your information, such as your Tweets, by following the instructions [here](https://help.twitter.com/managing-your-account/how-to-download-your-twitter-archive).
+*   Vous pouvez télécharger une copie de vos informations, telles que vos Tweets, en suivant les instructions données [ici](https://help.twitter.com/managing-your-account/how-to-download-your-twitter-archive).
     
-*   On the Periscope website, you can request correction or modification of your information, and download your account information, by following the instructions[here](https://help.pscp.tv/customer/portal/articles/2932270).
+*   Sur le site Internet Periscope, vous pouvez demander la rectification ou la modification de vos informations et télécharger les informations relatives à votre compte, en suivant les instructions données[ici](https://help.pscp.tv/customer/portal/articles/2932270).
     
 
-To protect your privacy and maintain security, we take steps to verify your identity before granting you access to your personal information or complying with a deletion, portability, or other related request. We may, in certain situations, reject your request for access, correction, or portability, for example, we may reject access where you are unable to verify your identity.  
+Afin de protéger votre vie privée et de maintenir la sécurité, nous prenons des mesures afin de vérifier votre identité avant de vous permettre d’accéder à vos informations personnelles ou de faire droit à une demande d’effacement, de portabilité ou autre demande similaire. Dans certains cas, nous pouvons rejeter votre demande d’accès, de rectification ou de portabilité. Par exemple, nous pouvons refuser une demande d’accès quand vous n’êtes pas en mesure de prouver votre identité.  
 
-### 5.2 Deleting your Information.
-
-  
-If you follow the instructions [here](https://help.twitter.com/managing-your-account/how-to-deactivate-twitter-account) (or for Periscope[here](https://help.pscp.tv/customer/portal/articles/2460220)), your account will be deactivated. When deactivated, your Twitter account, including your display name, username, and public profile, will no longer be viewable on Twitter.com, Twitter for iOS, and Twitter for Android. For up to 30 days after deactivation it is still possible to restore your Twitter account if it was accidentally or wrongfully deactivated.
-
-### 5.3 Objecting to, Restricting, or Withdrawing your Consent.
+### 5.2 Suppression de vos informations.
 
   
-You can manage your privacy settings and other account features[here](https://twitter.com/settings/account). If you change your settings it may take some time for your choices to be fully reflected throughout our systems. You may also notice changes in your Twitter experience or limitations in your ability to access certain features depending on the settings you’ve adjusted.  
-  
-Twitter adheres to the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising (also referred to as “interest-based advertising”) and respects the DAA’s consumer choice tool for you to opt out of interest-based advertising at [https://optout.aboutads.info/](https://optout.aboutads.info/).
+Si vous suivez les instructions figurant [ici](https://help.twitter.com/managing-your-account/how-to-deactivate-twitter-account) (ou, pour Periscope, les instructions figurant[ici](https://help.pscp.tv/customer/portal/articles/2460220)), votre compte sera désactivé. Une fois cette opération effectuée, votre compte Twitter, y compris votre nom d’affichage, votre nom d’utilisateur et votre profil public ne seront plus visibles sur Twitter.com, Twitter pour iOS, et Twitter pour Android. Pendant une période de 30 jours à compter de sa désactivation, il sera encore possible de restaurer votre compte Twitter s’il a été désactivé accidentellement ou par erreur.
 
-### 5.4 Authorized Agent Requests.
+### 5.3 Opposition, restriction ou retrait de votre consentement.
 
   
-To submit a request related to access, modification, or deletion of your information, or someone else’s information if you are their authorized agent, you may also contact us as specified in the How To Contact Twitter section of our Privacy Policy below. We may require you to provide additional information for verification.
+Vous pouvez gérer vos paramètres de confidentialité ainsi que les autres fonctionnalités de votre compte[ici](https://twitter.com/settings/account). En cas de modification de vos paramètres, une certaine période sera nécessaire afin que vos choix soient pleinement pris en compte par nos systèmes. Vous pouvez également constater des changements dans votre expérience Twitter ou des limitations dans votre capacité à accéder à certaines fonctionnalités en fonction des paramètres que vous avez ajustés.  
+  
+Twitter adhère aux Principes d’Autoréglementation pour la Publicité Comportementale En Ligne adoptés par la Digital Advertising Alliance (DAA) (portant sur un mode de communication également dénommé « publicité basée sur les centres d’intérêt ») et respecte l’outil de choix du consommateur élaboré par la DAA afin de vous permettre de refuser la publicité basée sur les centres d’intérêt à l’adresse : [https://optout.aboutads.info/](https://optout.aboutads.info/).
 
-How does Twitter handle my information wherever I am?
------------------------------------------------------
+### 5.4 Demandes des agents autorisés.
 
-**We treat your information fairly, no matter where you live around the world.**
+  
+Afin de soumettre une requête relative à l’accès, la modification ou l’effacement de vos informations ou de celles d’une autre personne dont vous êtes l’agent autorisé, vous pouvez nous contacter ainsi qu’il est indiqué dans la rubrique Comment contacter Twitter ci-dessous de notre Politique de confidentialité. Nous pouvons vous demander de fournir des informations supplémentaires à des fins de vérification.
 
-**6\. Your Rights and Ours**
+Comment Twitter traite-t-il mes informations quel que soit le lieu où je me trouve ?
+------------------------------------------------------------------------------------
 
-We provide Twitter to people all over the world and provide many of the same privacy tools and controls to all of our users regardless of where they live. However, your experience may be slightly different than users in other countries to ensure Twitter respects local requirements.
+**Nous traitons vos informations de manière équitable, quel que soit l’endroit du monde où vous vivez.**
 
-Expand dropdowns for more information:  
+**6\. Nos droits respectifs**
+
+Nous mettons Twitter à la disposition des gens du monde entier et fournissons beaucoup des mêmes outils et contrôles de confidentialité à l’ensemble de nos utilisateurs, quel que soit le lieu où ils vivent. Cependant, votre expérience peut être légèrement différente de celle d’utilisateurs situés dans d’autres pays afin de permettre à Twitter de respecter les exigences locales.
+
+Développez les menus pour plus d’informations :  
  
 
-### 6.1 We have specific legal bases to use your information.
+### 6.1 Nous disposons de bases légales spécifiques nous permettant d’utiliser vos informations.
 
   
-Twitter has carefully considered the legal reasons it is permitted to collect, use, share and otherwise process your information. If you want to dig in to learn more and better understand the nuances, we’d encourage you to check out [this additional information about data processing](https://help.twitter.com/rules-and-policies/data-processing-legal-bases). And no, we don’t sell your personal information.   
+Twitter a procédé à une étude approfondie des fondements légaux qui lui permettent de recueillir, d’utiliser, de partager et de traiter vos informations. Si vous voulez approfondir ces questions et mieux en saisir les nuances, nous vous invitons à consulter ces [informations supplémentaires relatives au traitement des données](https://help.twitter.com/rules-and-policies/data-processing-legal-bases). Sachez bien que nous ne vendons pas vos informations personnelles.   
  
 
-### 6.2 We move your data to make Twitter work for you.
+### 6.2 Nous transférons vos données pour que Twitter fonctionne pour vous.
 
   
-Just as you use Twitter to seamlessly participate in global conversations with people in countries all over the world, Twitter must move information across borders and to different countries around the world to support the safe and reliable service you depend on. For example, if you live in Europe and are having a conversation with someone in the United States, information has to move between those countries to provide that experience – it’s what you expect from us.
+Tout comme vous utilisez Twitter afin de participer sans difficulté à des conversations avec des personnes situées dans tous les pays du monde, Twitter a la faculté de transférer des informations au-delà des frontières et à destination de différents pays du monde entier afin d’assurer le service sûr et fiable sur lequel vous comptez. Par exemple, si vous vivez en Europe et avez une conversation avec une personne située aux États-Unis, les informations correspondantes doivent transiter entre ces pays afin de vous fournir cette expérience – c’est ce que vous attendez de nous.
 
-We also use data centers and cloud providers, and engage [our affiliates](https://help.twitter.com/rules-and-policies/twitter-services-and-corporate-affiliates) and third-party partners and [service providers](https://privacy.twitter.com/subprocessors) located in many parts of the world to help us provide our services. Before we move data between countries we look at the risks that may be presented to the data and rely on things like standard contractual clauses, where applicable, to ensure your data rights are protected. If data will be shared with a third party, we require them to maintain the same protections over your data that we provide directly.
+Nous utilisons des centres de données et des prestataires cloud et faisons appel à nos [entités affiliées](https://help.twitter.com/rules-and-policies/twitter-services-and-corporate-affiliates), nos partenaires tiers et nos [prestataires de services](https://privacy.twitter.com/subprocessors) tiers situés dans de nombreuses parties du monde afin de nous aider à fournir nos services. Avant de transférer des données entre divers pays, nous prenons en compte les risques que cette opération pourrait créer pour celles-ci ; nous nous appuyons s’il y a lieu sur des dispositifs comme les clauses contractuelles type afin de veiller à la protection de vos droits relatifs à vos données. En cas de partage de données avec des tiers, nous exigeons de ceux-ci qu’ils conservent les mêmes protections que nous fournissons directement en ce qui concerne vos données.
 
-Is Twitter for kids?
---------------------
+Twitter est-il destiné aux enfants ?
+------------------------------------
 
-**Nope, Twitter is not intended for people under 13.**
+**Non, Twitter n’a pas vocation à être utilisé par des personnes de moins de 13 ans.**
 
-**7\. Twitter’s Audience**
+**7\. Le public de Twitter**
 
-Our services are not directed to children, and you may not use our services if you are under the age of 13. You must also be old enough to consent to the processing of your personal data in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+Nos services ne sont pas destinés aux enfants, et il vous est interdit d’utiliser nos services si vous avez moins de 13 ans. Vous devez également être suffisamment âgé pour consentir au traitement de vos données personnelles dans votre pays (dans certains pays, il se peut que nous permettions à votre parent ou tuteur de le faire en votre nom).
 
-###### You there, Twitter?
+###### Twitter, es-tu là ?
 
   
 
-Will this policy change?
-------------------------
+Cette politique est-elle appelée à changer ?
+--------------------------------------------
 
-**If it does, we’ll let you know.**
+**Si tel est le cas, nous vous en informerons.**
 
-**8\. Changes To This Privacy Policy**  
+**8\. Modifications de la présente Politique de confidentialité**  
 
-The most current version of this Privacy Policy governs our processing of your personal data and we may revise this Privacy Policy from time to time as needed.
+La version la plus récente de cette Politique de confidentialité régit le traitement de vos données personnelles par nos soins. Nous pouvons modifier cette Politique de confidentialité s’il y a lieu en cas de besoin.
 
-If we do revise this Privacy Policy and make changes that are determined by us to be material, we will provide you notice and an opportunity to review the revised Privacy Policy before you continue to use Twitter.
+En cas de révision de cette Politique de confidentialité, et si nous y apportons des changements que nous estimons matériels, nous vous en aviserons et vous donnerons la possibilité d’examiner la Politique de confidentialité ainsi révisée avant de continuer à utiliser Twitter.
 
-How can I contact Twitter?
---------------------------
+Comment contacter Twitter ?
+---------------------------
 
-**Slide into our … very official inbox.**
+**Glissez-vous dans notre… boîte de réception très officielle.**
 
-**9\. How To Contact Twitter**  
+**9\. Comment contacter Twitter ?**  
   
-We want to hear from you if you have thoughts or questions about this Privacy Policy. You can contact us via our [Privacy Policy Inquiries](https://help.twitter.com/forms/privacy) page or by writing to us at the appropriate address below.
+N’hésitez pas à nous contacter si vous avez des réflexions ou des questions relatives à cette Politique de confidentialité. Vous pouvez nous contacter par l’intermédiaire de notre page [Questions relatives à la politique de confidentialité](https://help.twitter.com/forms/privacy) ou en nous écrivant à l’adresse indiquée ci-dessous.
 
-If you live in the United States or any other country outside of the European Union, EFTA States, or the United Kingdom, the data controller responsible for your personal data is Twitter, Inc. with an address of:
+Si vous vivez aux États-Unis ou dans tout autre pays situé au dehors de l’Union européenne, de l’AELE ou du Royaume-Uni, le responsable du traitement chargé de vos données à caractère personnel est la société Twitter, Inc. dont le siège est situé à l’adresse suivante :
 
 **Twitter, Inc.  
 Attn: Privacy Policy Inquiry  
 1355 Market Street, Suite 900  
 San Francisco, CA 94103**
 
-If you live in the European Union, EFTA States, or the United Kingdom, the data controller is Twitter International Unlimited Company, with an address of:
+Si vous vivez dans l’Union européenne, dans l’AELE, ou encore au Royaume-Uni, le responsable du traitement est la société Twitter International Unlimited Company, dont le siège est situé à l’adresse suivante :
 
 **Twitter International Unlimited Company  
 Attn: Data Protection Officer  
 One Cumberland Place, Fenian Street  
-Dublin 2, D02 AX07 IRELAND**
+Dublin 2, D02 AX07 IRLANDE**
 
   
-You can confidentially contact Twitter’s Data Protection Officer through our [Data Protection Inquiry Form](https://twitter.ethicspointvp.com/custom/twitter/forms/data/form_data.asp). If you wish to raise a concern about our [data processing practices](https://help.twitter.com/en/rules-and-policies/data-processing-legal-bases), you have the right to do so with your local supervisory authority or Twitter International Unlimited Company’s lead supervisory authority, the Irish Data Protection Commission, using the [contact details](https://www.dataprotection.ie/contact/how-contact-us) listed on their website.
+Vous pouvez contacter en toute confidentialité le Délégué à la Protection des Données de Twitter au moyen de notre [Formulaire de demande de renseignements concernant la protection des données](https://twitter.ethicspointvp.com/custom/twitter/forms/data/form_data.asp). Si vous souhaitez nous faire part d’une préoccupation relative à nos [pratiques en matière de traitement des données](https://help.twitter.com/fr/rules-and-policies/data-processing-legal-bases), vous pouvez le faire auprès de votre autorité de contrôle locale ou de l’autorité de contrôle de la société Twitter International Unlimited Company, à savoir l’Irish Data Protection Commission, dont les [coordonnées](https://www.dataprotection.ie/contact/how-contact-us) figurent sur son site Internet.
 
-[View previous policies](https://twitter.com/en/privacy/previous)
+[Visualiser les politiques antérieures](https://twitter.com/en/privacy/previous)
