@@ -1,136 +1,136 @@
-Copyright policy
-================
+Politique en matière de droits d'auteur
+=======================================
 
-#### What types of copyright complaints does Twitter respond to?
+#### Quels sont les types de réclamations relatives à des droits d'auteur traités par Twitter ?
 
-Twitter responds to copyright complaints submitted under the Digital Millennium Copyright Act (“DMCA”). Section 512 of the DMCA outlines the statutory requirements necessary for formally reporting copyright infringement, as well as providing instructions on how an affected party can appeal a removal by submitting a compliant counter-notice.
+Twitter répond aux réclamations relatives à des droits d'auteur envoyées dans le cadre de l'application de la loi Digital Millennium Copyright Act (DMCA). La Section 512 de la loi DMCA présente les exigences légales à respecter pour signaler de manière formelle une violation de droits d'auteur. Elle donne également des instructions sur la façon dont une partie concernée peut faire appel d'une suppression en envoyant un avis de contestation conforme.
 
-Twitter will respond to reports of alleged copyright infringement, such as allegations concerning the unauthorized use of a copyrighted image as a profile or header photo, allegations concerning the unauthorized use of a copyrighted video or image uploaded through our media hosting services, or Tweets containing links to allegedly infringing materials. Note that not all unauthorized uses of copyrighted materials are infringements (see our [fair use](https://help.twitter.com/en/rules-and-policies/fair-use-policy.html) article for more information).
+Twitter répond aux signalements de violation de droit d'auteur présumée, tels que les allégations relatives à l'utilisation non autorisée d'une image protégée en tant que photo de profil ou de bannière, à l'utilisation non autorisée d'une vidéo ou d'une image protégée importée via nos services d'hébergement multimédias, ou à des Tweets contenant des liens vers des ressources présentant des violations présumées. Notez que toutes les utilisations non autorisées d'éléments protégés par des droits d'auteur ne constituent pas des infractions (reportez‑vous à notre article sur [l'usage raisonnable](https://help.twitter.com/fr/rules-and-policies/fair-use-policy.html) pour plus d'informations).
 
-If you are concerned about the use of your brand or entity’s name, please review [Twitter’s trademark policy](https://help.twitter.com/en/rules-and-policies/twitter-trademark-policy.html). If you are concerned about a parody, newsfeed, commentary, or fan account, please see the relevant policy [here](https://help.twitter.com/enrules-and-policies/parody-account-policy.html). These are generally not copyright issues.
+Si vous vous inquiétez de l'utilisation du nom de votre marque ou entité, veuillez consulter la [Politique en matière de marques déposées de Twitter](https://help.twitter.com/fr/rules-and-policies/twitter-trademark-policy.html). Si vos préoccupations sont liées à un compte parodique, de flux d'actualités, de commentaires ou de fan, veuillez consulter la politique à ce sujet [ici](https://help.twitter.com/enrules-and-policies/parody-account-policy.html). Ces questions ne relèvent en général pas de problèmes de droits d'auteur.
 
-#### Am I a copyright holder? How do I know?
+#### Suis‑je le détenteur des droits d'auteur ? Comment le savoir ?
 
-If you are unsure whether you hold rights to a particular work, please consult an attorney or another adviser as Twitter cannot provide legal advice. There are plenty of resources to learn more about copyright law including [http://copyright.gov](http://copyright.gov/), [https://lumendatabase.org/](https://lumendatabase.org/), and [http://www.eff.org/issues/bloggers/legal/liability/IP](http://www.eff.org/issues/bloggers/legal/liability/IP), to name a few.
+Si vous n'êtes pas certain de détenir les droits relatifs à une œuvre donnée, veuillez consulter un avocat ou tout autre conseiller. Twitter ne peut fournir aucun conseil juridique. Il existe de nombreuses ressources offrant des informations complémentaires sur les lois relatives aux droits d'auteur, notamment [http://copyright.gov](http://copyright.gov/), [https://lumendatabase.org/](https://lumendatabase.org/) et [http://www.eff.org/issues/bloggers/legal/liability/IP](http://www.eff.org/issues/bloggers/legal/liability/IP), entres autres.
 
-#### What to consider before submitting a copyright complaint
+#### Avant d'envoyer une réclamation relative à des droits d'auteur
 
-Before submitting a copyright complaint to us, please consider whether or not the use could be considered [fair use](https://help.twitter.com/en/rules-and-policies/fair-use-policy.html). 
+Avant de nous envoyer une réclamation relative à des droits d'auteur, veuillez vérifier si l'utilisation du contenu peut être considérée comme relevant d'un [usage raisonnable](https://help.twitter.com/fr/rules-and-policies/fair-use-policy.html). 
 
-If you have considered fair use, and you still wish to continue with a copyright complaint, you may want to first reach out to the user in question to see if you can resolve the matter directly with the user. You can reply to the user’s Tweet or send the user a Direct Message and ask for them to remove your copyrighted content without having to contact Twitter. 
+Si vous avez réfléchi à cette question et si vous souhaitez encore déposer une réclamation relative à des droits d'auteur, vous pouvez éventuellement commencer par contacter l'utilisateur concerné pour voir si vous pouvez résoudre la question directement avec lui. Vous pouvez répondre au Tweet de l'utilisateur ou lui envoyer un Message Privé et lui demander de supprimer votre contenu protégé par des droits d'auteur. Il n'est pas nécessaire de contacter Twitter. 
 
-Prior to submitting a formal complaint with Twitter, please be aware that under 17 U.S.C. § 512(f), you may be liable for any damages, including costs and attorneys’ fees incurred by us or our users, if you knowingly materially misrepresent that material or activity is infringing. If you are unsure whether the material you are reporting is in fact infringing, you may wish to contact an attorney before filing a notification with us.
+Avant d'envoyer une réclamation formelle à Twitter, merci de noter qu'en vertu de l'article 17 U.S.C. § 512(f), vous pouvez être tenu responsable de tout dommage, y compris les coûts et les frais d'avocat, encourus par Twitter ou ses utilisateurs dans le cas où vous procéderiez sciemment à de fausses déclarations matérielles concernant du contenu ou une activité supposée en infraction. Si vous n'êtes pas certain que le contenu signalé est réellement en infraction, contactez un avocat avant de nous envoyer une réclamation.
 
-Note: In general, the photographer and NOT the subject of a photograph is the actual rights holder of the resulting photograph. If you’re unsure whether or not you own the copyrights to a work, or if you’re infringing upon someone else’s work, please consult an attorney or another advisor.
+Remarque : de manière générale, c'est le photographe et NON le sujet d'une photographie qui détient les droits d'auteur sur cette photographie. Si vous n'êtes pas certain de détenir les droits relatifs à une œuvre, ou si vous ne savez pas si vous portez atteinte au travail d'une autre personne, veuillez consulter un avocat ou tout autre conseiller.
 
-#### What information do you need to process a copyright complaint?
+#### Quelles sont les informations nécessaires au traitement d'une réclamation relative à des droits d'auteur ?
 
-To submit a notice of claimed copyright infringement, you will need to provide us with the following information:
+Pour envoyer une notification relative à une violation présumée de droits d'auteur, vous devrez nous fournir les informations suivantes :
 
-1.  A physical or electronic signature (typing your full name will suffice) of the copyright owner or a person authorized to act on their behalf;
-2.  Identification of the copyrighted work claimed to have been infringed (e.g., a link to your original work or clear description of the materials allegedly being infringed upon);
-3.  Identification of the infringing material and information reasonably sufficient to permit Twitter to locate the material on our website or services;
-4.  Your contact information, including your address, telephone number, and an email address;
-5.  A statement that you have a good faith belief that the use of the material in the manner asserted is not authorized by the copyright owner, its agent, or the law; and
-6.  A statement that the information in the complaint is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.  
+1.  Une signature physique ou électronique du détenteur des droits d'auteur ou d'une personne autorisée à agir en son nom (taper le nom et le prénom suffit) ;
+2.  L'identification de l'œuvre dont les droits d'auteur sont supposés violés (avec par exemple un lien vers votre œuvre originale ou une description claire des contenus concernés) ;
+3.  L'identification du contenu concerné et des informations raisonnablement suffisantes pour permettre à Twitter de localiser le contenu sur son site Web ou ses services ;
+4.  Vos coordonnées, y compris votre adresse, votre numéro de téléphone et une adresse email ;
+5.  Une déclaration affirmant que vous estimez de bonne foi que l'utilisation du contenu de la manière indiquée n'est pas autorisée par le détenteur des droits d'auteur, par son mandataire ou par la loi ; et
+6.  Une déclaration sous serment stipulant que les informations contenues dans la réclamation sont exactes et que vous êtes autorisé à agir pour le compte du détenteur des droits d'auteur.  
      
 
-If you are reporting the content of a Tweet, please give us a [direct link](https://help.twitter.com/en/using-twitter/tweet-and-moment-url.html) to that Tweet. Or please specify if the alleged infringement is in the header, avatar, etc. A LINK TO A PROFILE PAGE IS INSUFFICIENT FOR TWITTER TO IDENTIFY INFRINGING MATERIALS.
+Si votre notification porte sur le contenu d'un Tweet, merci de nous fournir un [lien direct](https://help.twitter.com/fr/using-twitter/tweet-and-moment-url.html) vers ce Tweet. Ou veuillez préciser si la violation présumée se trouve dans la bannière, l'avatar, ou autre. UN SIMPLE LIEN VERS UNE PAGE DE PROFIL NE SUFFIT PAS À TWITTER POUR IDENTIFIER LES CONTENUS CONCERNÉS.
 
-#### How do I file a copyright complaint?
+#### Comment effectuer une réclamation relative à des droits d'auteur ?
 
-You can report alleged copyright infringement by visiting Twitter’s Help Center and [filing a copyright complaint](https://help.twitter.com/forms/ipi). If you are logged in to twitter.com, you can visit the Twitter Help Center directly from your Twitter account by clicking the ‘Help’ link located in the sidebar.
+Vous pouvez signaler une violation présumée de droits d'auteur en vous rendant dans le Centre d'assistance Twitter et en [remplissant une réclamation relative à des droits d'auteur](https://help.twitter.com/forms/ipi). Si vous êtes connecté à twitter.com, vous pouvez accéder au Centre d'assistance Twitter directement depuis votre compte Twitter en cliquant sur le lien Aide situé dans la barre latérale.
 
-Filing a DMCA complaint is the start of a pre-defined legal process. Your complaint will be reviewed for accuracy, validity, and completeness. If your complaint has satisfied these requirements, we will take action on your request - which includes forwarding a full copy of your notice (including your name, address, phone and email address) to the user(s) who posted the allegedly infringing material in question.
+Remplir une notification DMCA est le début d'une procédure judiciaire prédéfinie. Votre réclamation sera étudiée pour établir sa validité, sa précision et son exhaustivité. Si ces éléments sont jugés satisfaisants, nous traiterons votre réclamation et nous enverrons une copie complète de votre notification (avec votre nom, votre adresse, votre numéro de téléphone et votre adresse email) à l'utilisateur ou aux utilisateurs ayant publié le contenu supposé en infraction.
 
-If you are concerned about your contact information being forwarded, you may wish to use an agent to report for you.
+Si vous vous préoccupez de la transmission de vos coordonnées, vous pouvez recourir à un agent pour effectuer le signalement.
 
-Please be aware that under 17 U.S.C. § 512(f), you may be liable for any damages, including costs and attorneys’ fees incurred by us or our users, if you knowingly materially misrepresent that material or activity is infringing. If you are unsure whether the material you are reporting is in fact infringing, you may wish to contact an attorney before filing a copyright complaint.
+Merci de noter qu'en vertu de l'article 17 U.S.C. § 512(f), vous pouvez être tenu responsable de tout dommage, y compris les coûts et les frais d'avocat, encourus par Twitter ou ses utilisateurs dans le cas où vous procéderiez sciemment à de fausses déclarations matérielles concernant du contenu ou une activité supposée en infraction. Si vous n'êtes pas certain que le contenu signalé est réellement en infraction, contactez un avocat avant de remplir une réclamation relative à des droits d'auteur et de nous l'envoyer.
 
-#### How are claims processed?
+#### Comment les réclamations sont‑elles traitées ?
 
-We process copyright complaints in the order in which they are received. Once you've submitted your ticket, we will email you a ticket confirmation. If you do not receive a ticket confirmation that means we did not receive your complaint and you should re-submit your complaint. However, please note, submitting duplicate copyright complaints will result in a delay in processing.
+Nous traitons les réclamations relatives à des droits d'auteur dans l'ordre dans lequel nous les recevons. Une fois votre réclamation envoyée, nous vous enverrons par email une confirmation de requête. Si vous ne recevez pas de confirmation, cela signifie que nous n'avons pas reçu votre réclamation et que vous devez l'envoyer de nouveau. Toutefois, veuillez noter que l'envoi de réclamations relatives à des droits d'auteur en double peut retarder le traitement.
 
-If we decide to remove or disable access to the material, we will notify the affected user(s) and provide them with a full copy of the reporter’s complaint (including the provided contact information) along with instructions on how to file a counter-notice. We will also forward a redacted copy of the complaint to [Lumen](https://lumendatabase.org/twitter), with your personal information removed.
+Si nous décidons de supprimer le contenu ou de désactiver l'accès à celui‑ci, nous avertirons le ou les utilisateurs concernés et nous leur donnerons accès à une copie complète de la réclamation reçue (coordonnées indiquées comprises), ainsi qu'aux instructions permettant d'envoyer un avis de contestation. Nous enverrons aussi une copie de la réclamation à [Lumen](https://lumendatabase.org/twitter), en supprimant vos données personnelles.
 
-#### What information gets forwarded to the reported user(s)?
+#### Quelles sont les informations transmises aux utilisateurs signalés ?
 
-If we remove or disable access to the materials reported in a copyright complaint, the reported user(s) will receive a copy of the complaint, including the reporter’s full name, email, street address, and any other information included in the complaint. 
+Si nous supprimons ou désactivons l'accès au contenu signalé dans une réclamation relative à des droits d'auteur, le ou les utilisateurs signalés recevront une copie de la réclamation, comprenant le nom et le prénom de la personne ayant effectué le signalement, son adresse email, son adresse postale et toute autre information figurant dans la réclamation. 
 
-If you are uncomfortable sharing your contact information with the reported user(s), you may wish to consider appointing an agent to submit your DMCA notice on your behalf. Your agent will be required to submit the DMCA notice with valid contact information, and identify you as the content owner that they are representing. 
+Si vous ne souhaitez pas que vos coordonnées soient transmises aux utilisateurs signalés, vous pouvez décider de nommer un agent pour envoyer votre avis DMCA en votre nom. Votre agent devra envoyer l'avis DMCA avec des coordonnées valides et vous identifier comme le propriétaire du contenu qu'il représente. 
 
-#### What happens next?
+#### Que se passe‑t‑il ensuite ?
 
-Twitter’s response to copyright complaints may include the removal or restriction of access to allegedly infringing material. If we remove or restrict access to user content in response to a copyright complaint, Twitter will make a good faith effort to contact the affected account holder with information concerning the removal or restriction of access, including a full copy of the complaint, along with instructions for filing a counter-notice.
+La réponse de Twitter aux réclamations relative à des droits d'auteur peut inclure la suppression du contenu concerné ou la restriction de l'accès à celui‑ci. Si nous supprimons du contenu ou restreignons l'accès à celui‑ci en réponse à une réclamation relative à des droits d'auteur, Twitter fera ce qui est en son pouvoir pour contacter le détenteur du compte concerné et l'informer de la suppression ou de la restriction de l'accès, en lui fournissant une copie complète de la réclamation et des instructions sur la marche à suivre pour déposer un avis de contestation.
 
-If you’ve not yet received a copy of the copyright complaint regarding the content removed from your account, please respond to the support ticket we sent you.
+Si vous n'avez pas encore reçu de copie de la réclamation relative au contenu supprimé de votre compte, veuillez répondre au message que nous vous avons envoyé.
 
-In an effort to be as transparent as possible regarding the removal or restriction of access to user-posted content, we clearly mark withheld Tweets and media to indicate to viewers when content has been withheld (examples below). We also send a redacted copy of each copyright complaint and counter-notice that we process to Lumen, where they are posted to a public-facing website (with your personal information removed).
+Dans un effort de transparence maximale concernant la suppression de contenu publié ou la restriction de l'accès à celui‑ci, nous marquons clairement les Tweets et médias bloqués afin que les utilisateurs sachent si l'accès à un contenu a été restreint (voir les exemples ci‑dessous). Nous envoyons également une copie de chaque réclamation relative à des droits d'auteur et de chaque avis de contestation que nous traitons à Lumen, qui les publie sur un site Web public (vos données personnelles ayant été supprimées).
 
  ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 530 86%22%3E%3C/svg%3E) 
 
  ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 161%22%3E%3C/svg%3E) 
 
-My content was removed from Twitter
-===================================
+Mon contenu a été supprimé de Twitter
+=====================================
 
-#### Why did I receive a copyright complaint?
+#### Pourquoi ai‑je reçu une réclamation relative à des droits d'auteur ?
 
-If you receive a copyright complaint, it means that access to the content described in the complaint has been restricted. Please take the time to read through our correspondence to you, which includes information on the complaint we received as well as instructions on how to file a counter-notice. Please ensure that you are monitoring the email address associated with your Twitter account.
+Si vous recevez une réclamation relative à des droits d'auteur, cela signifie que l'accès au contenu décrit dans la réclamation a été restreint. Veuillez prendre le temps de lire notre courrier, qui comprend des informations sur la réclamation que nous avons reçue et des instructions sur la marche à suivre pour déposer un avis de contestation. Assurez‑vous de bien consulter la messagerie de l'adresse email associée à votre compte Twitter.
 
-Tip: Removing the material reported in a copyright complaint will not resolve that complaint
+Conseil : la suppression du contenu signalé dans une réclamation relative à des droits d'auteur ne résout pas cette réclamation.
 
-#### What if I want to contest the takedown?
+#### Et si je veux contester le retrait ?
 
-If you believe that the materials reported in the copyright complaints  
-were misidentified or removed in error, you may send us a [counter-notification(s)](https://help.twitter.com/en/forms/ipi/dmca-counternotice.html) through our Help Center. A counter-notice is a request for Twitter to reinstate the removed material, and it has legal consequences. Alternatively, you may be able to seek a retraction of the copyright complaint from the reporter.
+Si vous pensez que le contenu signalé dans la réclamation relative à des droits d'auteur  
+a été mal identifié ou supprimé par erreur, vous pouvez nous envoyer un [avis de contestation](https://help.twitter.com/fr/forms/ipi/dmca-counternotice.html) via notre Centre d'assistance. Un avis de contestation est une demande afin que nous réactivions le contenu supprimé. Il a des conséquences juridiques. À la place, vous pouvez éventuellement demander à la personne qui a envoyé la réclamation relative à des droits d'auteur de se rétracter.
 
-#### How do I seek a retraction?
+#### Comment demander une rétractation ?
 
-The DMCA complaint you received includes the contact information of the reporter. You may want to reach out and ask them to retract their notice using our [retraction form](https://help.twitter.com/en/forms/ipi/dmca-retraction). This is the fastest and most efficient means of resolving an unresolved copyright complaint. Alternatively, the reporter can also send a retraction notice to [copyright@twitter.com](mailto:copyright@twitter.com).  Such notice should include: (1) identification of the material that was disabled, and (2) a statement that the reporter would like to retract their DMCA notice.  A retraction is at the sole discretion of the original reporter, and only that reporter can issue a retraction.  If a portion of your tweet has been withheld, the violation will not be resolved just by deleting the remaining portion.
+La réclamation DMCA que vous avez reçue comprend les coordonnées de la personne à l'origine du signalement. Vous pouvez la contacter et lui demander de retirer son avis en utilisant notre [formulaire de rétractation](https://help.twitter.com/en/forms/ipi/dmca-retraction). Ceci est le moyen le plus rapide et le plus efficace de résoudre une réclamation relative à des droits d'auteur. Par ailleurs, la personne ayant effectué le signalement peut également envoyer un avis de rétractation à [copyright@twitter.com](mailto:copyright@twitter.com). Cet avis doit inclure : (1) l'identification du contenu désactivé et (2) une déclaration stipulant qu'elle souhaite retirer son avis DMCA. Une rétractation s'effectue à la seule discrétion de la personne ayant envoyé le signalement, et elle seule peut émettre cette rétractation. Si l'accès à votre Tweet est partiellement restreint, la suppression de la partie restante ne saurait résoudre le problème.
 
-#### When should I file a counter-notice?
+#### Quand dois‑je déposer un avis de contestation ?
 
-A counter-notice is a request for Twitter to reinstate the removed material, and is the start of a legal process that has legal consequences.  For example, submitting a counter notice indicates that you consent to the jurisdiction of a U.S. Federal court and that you consent to the disclosure of your personal information to the reporter and Lumen website.
+Un avis de contestation est une demande afin que nous réactivions le contenu supprimé. C'est le début d'une procédure légale qui a des conséquences juridiques. Par exemple, l'envoi d'un avis de contestation indique que vous acceptez la compétence d'un tribunal fédéral des États-Unis et la divulgation de vos données personnelles au déclarant et au site Web de Lumen.
 
-With these considerations in mind, you may file a counter-notice if you believe that this material was misidentified, or you have a good faith belief that the material should not have been removed.  If you’re unsure whether or not you should file a counter-notice, you may want to consult with an attorney.
+Ceci étant, vous pouvez envoyer un avis de contestation si vous pensez qu'il y a eu une erreur d'identification du contenu ou si vous estimez de bonne foi que le contenu n'aurait pas dû être supprimé. Si vous ne savez pas si vous devez envoyer un avis de contestation ou pas, nous vous conseillons de contacter un avocat.
 
-Tip: Re-posting material removed in response to a copyright complaint may result in permanent account suspension. If you believe the content was removed in error, please file a counter-notice rather than re-posting the material. 
+Conseil : le fait de republier un contenu supprimé suite à une réclamation relative à des droits d'auteur peut entraîner la suspension définitive du compte concerné. Si vous pensez que le contenu a été supprimé par erreur, veuillez déposer un avis de contestation plutôt que de republier le contenu en question. 
 
-#### What information do you need to process a counter-notice?
+#### Quelles sont les informations nécessaires au traitement d'un avis de contestation ?
 
-To submit a counter-notice, you will need to provide us with the following information:
+Pour envoyer un avis de contestation, vous devrez nous fournir les informations suivantes :
 
-1.  A physical or electronic signature (typing your full name will suffice);
-2.  Your full name, address (including country), telephone number, and for verification purposes, your Twitter username and associated email;
-3.  Identification of the material that has been removed or to which access has been disabled, and the location at which the material appeared before that removal or disabling (the description from the copyright notice will suffice);
-4.  A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; and
-5.  One of the following jurisdictional consent statements:
+1.  Une signature physique ou électronique (la saisie de votre nom et prénom suffit) ;
+2.  Votre nom et prénom, votre adresse (pays compris), votre numéro de téléphone et, à des fins de vérification, votre nom d'utilisateur Twitter et l'adresse email associée ;
+3.  L'identification du contenu ayant été supprimé ou auquel l'accès a été désactivé, et de l'emplacement où le contenu apparaissait avant la suppression ou la désactivation de l'accès (la description figurant dans l'avertissement sur les droits d'auteur suffit) ;
+4.  Une déclaration sous serment stipulant que vous croyez en toute bonne foi que le contenu a été supprimé ou désactivé par erreur ou en raison d'une identification erronée du contenu à supprimer ou à désactiver ; et
+5.  L'une des déclarations de consentement juridictionnel suivantes :
 
-(If your address is in the United States) 
+(Si votre adresse est américaine) 
 
-“I consent to the jurisdiction of the Federal District Court for the judicial district in which my address is located and I’ll accept service of process from the person who provided notice under 17 U.S.C. 512 (c)(1)(C) or an agent of such person.”
+« J'accepte la compétence de la cour fédérale de district de ma juridiction de résidence et j'accepte la signification de la part de la personne ayant établi l'avis en vertu de l'article 17 U.S.C. 512 (c)(1)(C), ou d'un représentant de cette personne. »
 
-OR
+OU
 
-(If your address is outside of the United States) 
+(Si votre adresse n'est pas américaine) 
 
-"I consent to any judicial district in which Twitter may be found, and I’ll accept service of process from the person who provided notice under 17 U.S.C. 512 (c)(1)(C) or an agent of such person."
+« J'accepte la compétence de toute cour de justice dans laquelle Twitter peut se trouver et j'accepte la signification de la part de la personne ayant établi l'avis en vertu de l'article 17 U.S.C. 512 (c)(1)(C), ou d'un représentant de cette personne. »
 
-To submit a counter-notice, please provide all of the above information using our web form, located [here](https://help.twitter.com/en/forms/ipi/dmca-counternotice.html).
+Pour envoyer un avis de contestation, veuillez fournir toutes les informations mentionnées ci-dessus en utilisant notre [formulaire web](https://help.twitter.com/en/forms/ipi/dmca-counternotice.html).
 
-#### What happens after I submit a counter-notice?
+#### Que se passe‑t‑il une fois que j'ai envoyé un avis de contestation ?
 
-Upon receipt of a valid counter-notice, we will promptly forward a copy to the person who filed the original notice. This means that the contact information that is submitted in your counter-notice will be shared to the person who filed the original notice. 
+Après réception d'un avis de contestation valide, nous en faisons rapidement suivre une copie à la personne qui a déposé le signalement initial. Cela signifie que les coordonnées figurant dans votre avis de contestation seront transmises à cette personne. 
 
-If the copyright owner disagrees that the content was removed in error or misidentification, they may pursue legal action against you.  If we do not receive notice within 10 business days that the original reporter is seeking a court order to prevent further infringement of the material at issue, we may replace or cease disabling access to the material that was removed.
+Si le détenteur des droits d'auteur n'est pas d'accord avec votre avis selon lequel le contenu a été supprimé par erreur ou mal identifié, il peut engager des poursuites contre vous. Si nous ne recevons pas dans les 10 jours ouvrables d'avis indiquant que cette personne a engagé une action en justice visant à vous empêcher de continuer à utiliser le contenu concerné, nous pourrons restaurer le contenu supprimé ou réactiver l'accès à celui‑ci.
 
-We cannot offer any legal advice. Should you have questions, please consult an attorney.
+Nous ne pouvons fournir aucun conseil juridique. Si vous avez des questions, veuillez consulter un avocat.
 
-#### Filing a copyright complaint or counter-notice is serious business!
+#### Les réclamations relatives à des droits d'auteur et les avis de contestation sont des démarches officielles
 
-Please think twice before submitting a claim or counter-notice, especially if you are unsure whether you are the actual rights holder or authorized to act on a rights holder’s behalf. There are legal and financial consequences for fraudulent and/or bad faith submissions. Please be sure that you are the actual rights holder, or that you have a good faith belief that the material was removed in error, and that you understand the repercussions of submitting a false claim.
+Réfléchissez bien avant d'envoyer une réclamation ou un avis de contestation, surtout si vous n'êtes pas certain d'être le détenteur des droits d'auteur ou d'être autorisé à agir au nom du détenteur des droits. Les signalements frauduleux et/ou de mauvaise foi ont des conséquences juridiques et financières. Veuillez vous assurer que vous êtes bien le détenteur des droits d'auteur, ou que vous pensez en toute bonne foi que le contenu a été supprimé par erreur, et vérifiez que vous comprenez bien les répercussions d'une réclamation fallacieuse.
 
-#### What happens if my account receives multiple copyright complaints?
+#### Que se passe‑t‑il si mon compte fait l'objet de plusieurs réclamations relatives à des droits d'auteur ?
 
-If multiple copyright complaints are received about an account, or other evidence suggests a pattern of repeat infringement, Twitter may suspend that account in accordance with our Repeat Infringer Policy. Users may file a suspension appeal using [this form](https://help.twitter.com/forms/general?subtopic=suspended). Our Repeat Infringer Policy will take valid retractions and counter-notices into account.
+Si plusieurs plaintes pour atteinte aux droits d'auteur sont déposées et concernent un même compte, ou si d'autres preuves suggèrent un modèle d'infraction répétée, Twitter se réserve le droit de suspendre ce compte conformément à notre politique relative aux infractions répétées. Les utilisateurs peuvent faire appel de la suspension en utilisant [ce formulaire](https://help.twitter.com/forms/general?subtopic=suspended). Notre politique relative aux infractions répétées prend les rétractations et les avis de contestation en considération.
