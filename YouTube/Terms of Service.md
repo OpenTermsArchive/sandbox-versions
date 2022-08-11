@@ -312,4 +312,4 @@ If you do not comply with this Agreement and we do not take action immediately, 
 
 If you live in the United Kingdom this Agreement, and your relationship with YouTube under this Agreement will be governed by the laws of your country of residence, and legal proceedings may be brought in your local courts.
 
-#### In vigore dal giorno January 5, 2022 ([visualizza versione precedente](https://www.youtube.com/t/terms?archive=20210601))
+#### Effective as of January 5, 2022 ([view previous version](https://www.youtube.com/t/terms?archive=20210601))
