@@ -1,9 +1,7 @@
 Conditions d’utilisation
 ========================
 
- ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) 
-
-**Date d’effet : 10 juin 2022**
+  
 
 **Date d’effet : 10 juin 2022**
 
