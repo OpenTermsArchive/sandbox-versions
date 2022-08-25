@@ -67,6 +67,10 @@ Si vous n'avez pas encore reçu de copie de la réclamation relative au contenu 
 
 Dans un effort de transparence maximale concernant la suppression de contenu publié ou la restriction de l'accès à celui‑ci, nous marquons clairement les Tweets et médias bloqués afin que les utilisateurs sachent si l'accès à un contenu a été restreint (voir les exemples ci‑dessous). Nous envoyons également une copie de chaque réclamation relative à des droits d'auteur et de chaque avis de contestation que nous traitons à Lumen, qui les publie sur un site Web public (vos données personnelles ayant été supprimées).
 
+ ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 530 86%22%3E%3C/svg%3E) 
+
+ ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 161%22%3E%3C/svg%3E) 
+
 Mon contenu a été supprimé de Twitter
 =====================================
 
@@ -130,7 +134,3 @@ Réfléchissez bien avant d'envoyer une réclamation ou un avis de contestation,
 #### Que se passe‑t‑il si mon compte fait l'objet de plusieurs réclamations relatives à des droits d'auteur ?
 
 Si plusieurs plaintes pour atteinte aux droits d'auteur sont déposées et concernent un même compte, ou si d'autres preuves suggèrent un modèle d'infraction répétée, Twitter se réserve le droit de suspendre ce compte conformément à notre politique relative aux infractions répétées. Les utilisateurs peuvent faire appel de la suspension en utilisant [ce formulaire](https://help.twitter.com/forms/general?subtopic=suspended). Notre politique relative aux infractions répétées prend les rétractations et les avis de contestation en considération.
-
- ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 530 86%22%3E%3C/svg%3E) 
-
- ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 161%22%3E%3C/svg%3E)
