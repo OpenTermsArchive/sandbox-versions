@@ -470,9 +470,9 @@ Nous supprimons tout soutien technique envers des entités et des évènements d
 Les **représentations** peuvent être définies comme ce qui suit :
 
 *   toute déclaration que vous êtes membre d’une entité désignée ou que vous êtes une entité désignée ;
-    *   P. ex. : « Je suis un Grand Dragon du KKK. »
-*   toute création d’une Page, d’un profil, d’un évènement, d’un groupe ou d’une autre entité Facebook qui appartient ou prétend appartenir à une entité désignée ou géré(e) en son nom, ou qui est ou prétend être un évènement désigné.
-    *   P. ex. : « Une Page baptisée Parti nazi américain. »
+    *   Par exemple : « Je suis un Grand Dragon du KKK. »
+*   toute création d’une Page, d’un profil, d’un évènement, d’une Communauté ou d’une autre entité Facebook qui appartient ou prétend appartenir à une entité désignée ou gérée en son nom, ou qui est ou prétend être un évènement désigné.
+    *   Par exemple : « Une Page baptisée Parti nazi américain. »
 
 Nous supprimons les représentations des entités bannies incitant à la haine, des évènements désignés et des organismes désignés de niveaux 1 et 2.
 
@@ -519,18 +519,18 @@ Nous ne permettons pas non plus les éloges, les soutiens techniques ou les repr
 
 **_Niveau 2 : acteurs non étatiques violents_**
 
-Les organismes et les individus désignés par Meta comme des acteurs non étatiques violents ne sont pas autorisés à maintenir une présence sur Facebook ni à faire maintenir une présence par d’autres personnes en leur nom. Puisque ces groupes sont activement engagés dans des actes de violence, le soutien technique à ces entités n’est pas non plus autorisé. Nous faisons de même pour les actes de violence perpétrés par ces entités.
+Les organismes et les individus désignés par Meta comme des acteurs non étatiques violents ne sont pas autorisés à maintenir une présence sur Facebook ni à faire maintenir une présence par d’autres personnes en leur nom. Puisque ces communautés sont activement engagées dans des actes de violence, le soutien technique à ces entités n’est pas non plus autorisé. Nous faisons de même pour les actes de violence perpétrés par ces entités.
 
 **Les acteurs non étatiques** désignent les acteurs non étatiques qui :
 
-*   s’engagent dans des actes de violence intentionnels et planifiés, principalement contre l’armée d’un pays ou d’autres groupes armés ; et
+*   s’engagent dans des actes de violence intentionnels et planifiés, principalement contre l’armée d’un pays ou d’autres communautés armées ; et
 *   causent ou tentent de
     *   causer la mort de personnes en prenant directement part aux hostilités dans le cadre d’un conflit armé, et/ou
     *   privent des communautés de l’accès aux infrastructures vitales et aux ressources naturelles, et/ou causent des dommages matériels importants, liés à la mort, à des blessures graves ou à des préjudices graves envers des civils.
 
 **_Niveau 3 : mouvements sociaux militarisés, réseau de conspiration incitant à la violence et entités bannies incitant à la haine_**
 
-Les Pages, groupes, évènements et profils ou d’autres entités Facebook qui sont ou prétendre être gérés par des mouvements sociaux militarisés et des réseaux de conspiration incitant à la violence, ou en leur nom, sont interdits. Les admins de ces Pages, groupes et évènements seront également supprimés.
+Les Pages, Communautés, évènements et profils ou d’autres entités Facebook qui sont ou prétendre être gérés par des mouvements sociaux militarisés et des réseaux de conspiration incitant à la violence, ou en leur nom, sont interdits. Les admins de ces Pages, Communautés et évènements seront également supprimés.
 
 [Cliquez ici](https://about.fb.com/news/2020/08/addressing-movements-and-organizations-tied-to-violence/) pour en savoir plus sur la manière dont nous gérons les mouvements et les organismes liés à la violence.
 
@@ -538,11 +538,11 @@ Nous n’autorisons pas les représentations d’organismes ou d’individus dé
 
 **Les mouvements sociaux militarisés** incluent :
 
-*   **Les milices** sont définies comme des acteurs non étatiques qui utilisent des armes dans le cadre de leur formation, de leur communication ou de leur présence, et qui sont structurés ou fonctionnement comme des forces militaires ou de sécurité non officielles et :
+*   **Les milices**, définies comme des acteurs non étatiques qui utilisent des armes dans le cadre de leur formation, de leur communication ou de leur présence, et qui sont structurés ou fonctionnement comme des forces militaires ou de sécurité non officielles et :
     *   se coordonnent en vue de préparer des actes de violence ou une guerre civile ; ou
     *   diffusent des informations sur l’utilisation tactique des armes pour le combat ; ou
     *   assurent la coordination tactique militarisée dans le cadre d’un conflit armé ou d’une guerre civile, qu’ils soient actuels ou futurs.
-*   **Les groupes qui soutiennent des actes de violence au cours de manifestations** sont définis comme des acteurs non étatiques qui, à maintes reprises :
+*   **Les Communautés qui soutiennent des actes de violence au cours de manifestations** sont définis comme des acteurs non étatiques qui, à maintes reprises :
     *   coordonnent, encouragent, admettent ou s’engagent dans :
     *   des actes de violence de rue contre des civils ou la police ; ou
     *   des incendies criminels, des pillages ou d’autres destructions de biens ; ou
@@ -570,8 +570,8 @@ Nous travaillons ardemment à limiter la diffusion des spams, car nous ne voulon
 
 #### Ne pas :
 
-*   Publier, partager, prendre part, manuellement ou automatiquement, à du contenu ou créer des comptes, groupes, Pages, évènements ou autres éléments, à des fréquences très élevées.
-*   Tenter de ou réussir à vendre, acheter ou échanger des privilèges sur le site, des engagements ou des fonctionnalités de produit, comme des comptes, des rôles d’administrateur, des autorisations de publier, des Pages, des groupes, des mentions « J’aime », etc. sauf dans le cas d’un contenu de marque clairement identifié, tel que défini dans nos [Politiques de contenu de marque](https://www.facebook.com/policies/brandedcontent/).
+*   Publier, partager, prendre part, manuellement ou automatiquement, à du contenu ou créer des comptes, Communautés, Pages, évènements ou autres éléments, à des fréquences très élevées.
+*   Tenter de ou réussir à vendre, acheter ou échanger des privilèges sur le site, des engagements ou des fonctionnalités de produit, comme des comptes, des rôles d’admin, des autorisations de publier, des Pages, des Communautés, des mentions « J’aime », etc. sauf dans le cas d’un contenu de marque clairement identifié, tel que défini dans nos [Politiques de contenu de marque](https://www.facebook.com/policies/brandedcontent/).
 
 *   Exiger ou réclamer que les utilisateurs et utilisatrices interagissent avec du contenu (par exemple aimer, partager) avant de pouvoir voir ou interagir avec le contenu promis.
 *   Encourager à aimer, partager, suivre, cliquer ou utiliser les apps ou sites web pour des prétextes comme :
@@ -599,21 +599,21 @@ Afin d’encourager la sécurité et la conformité aux restrictions légales g�
 
 De contenu qui :
 
-*   tente d’acheter, de vendre ou de commercialiser des armes à feu, de pièces d’armes à feu, des munitions, des explosifs ou des améliorations à visée meurtrière, sauf si ledit contenu est publié par une Page, un Groupe ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web, des marques ou des agences gouvernementales (par exemple, un service de police ou une brigade de pompiers) ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
+*   tente d’acheter, de vendre ou de commercialiser des armes à feu, de pièces d’armes à feu, des munitions, des explosifs ou des améliorations à visée meurtrière, sauf si ledit contenu est publié par une Page, une Communauté ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web, des marques ou des agences gouvernementales (par exemple, un service de police ou une brigade de pompiers) ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
 *   tente de faire don d’armes à feu, de pièces d’armes à feu, de munitions, d’explosifs ou d’améliorations à visée meurtrière, ou d’en offrir, sauf si ledit contenu est publié dans les contextes suivants :
-    *   don, commercialisation ou rachat d’armes à feu et de munitions par une Page, un Groupe ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web, des marques ou des agences gouvernementales ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
+    *   don, commercialisation ou rachat d’armes à feu et de munitions par une Page, une Communauté ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web, des marques ou des agences gouvernementales ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
     *   une tombola ou une enchère d’armes à feu organisée par des entités physiques légitimes, y compris des entreprises de vente au détail, des organisations liées au gouvernement ou sans but lucratif, ou des individus privés affiliés à des entités physiques légitimes ou sponsorisés par celles-ci.
 *   cherche à obtenir des armes à feu, des pièces d’armes à feu, des munitions, des explosifs ou des améliorations à visée meurtrière ;
 *   vend, offre, échange, transfère, coordonne, promeut (dans le sens d’en parler positivement, d’encourager à leur utilisation) ou fournit des instructions de fabrication d’armes à feu ou de pièces d’armes à feu à l’aide d’imprimantes 3D ou d’un ordinateur, quel que soit le contexte ou la personne à l’origine de la publication.
 
-**Substances non médicales**
+**Médicaments non médicaux**
 
 De contenu qui :
 
-*   tente d’acheter des substances non médicales, d’en vendre, d’en commercialiser, d’en coordonner le commerce, d’en faire don ou d’en solliciter ;
-*   est reconnu par l’auteur de la publication lui-même ou d’autres comme vendant, commercialisant ou coordonnant la commercialisation des substances non médicales ;
-*   reconnaît une consommation personnelle sans confirmation ou référence à la récupération, le traitement ou une autre aide pour lutter contre la consommation. Il est possible que ledit contenu ne parle pas d’instructions pour faire ou utiliser des substances non médicales en termes positifs, qu’il n’encourage pas à leur utilisation, ni qu’il ne coordonne pas ou ne fournisse pas ce type d’instructions.
-*   coordonne ou promeut (c’est-à-dire en parle positivement, encourage à leur utilisation ou fournit des instructions pour en utiliser ou en faire) des substances non médicales.
+*   tente d’acheter des médicaments non médicaux, d’en vendre, d’en commercialiser, d’en coordonner le commerce, d’en faire don ou d’en solliciter ;
+*   est reconnu par l’auteur de la publication lui-même ou d’autres comme vendant, commercialisant ou coordonnant la commercialisation des médicaments non médicaux ;
+*   reconnaît une consommation personnelle sans confirmation ou référence à la récupération, le traitement ou une autre aide pour lutter contre la consommation. Il est possible que ledit contenu ne parle pas d’instructions pour faire ou utiliser des médicaments non médicaux en termes positifs, qu’il n’encourage pas à leur utilisation, ni qu’il ne coordonne pas ou ne fournisse pas ce type d’instructions.
+*   coordonne ou promeut (c’est-à-dire en parle positivement, encourage à leur utilisation ou fournit des instructions pour en utiliser ou en faire) des médicaments non médicaux.
 
 **Produits pharmaceutiques**
 
@@ -641,7 +641,7 @@ De contenu qui :
 **Animaux vivants n’étant pas en voie de disparition, à l’exclusion du bétail**
 
 *   De contenu qui tente d’acheter, de vendre ou de commercialiser des animaux vivants n’étant pas en voie de disparition, sauf lorsque le contenu :
-    *   est publié par une Page, un Groupe ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web légitimes, des marques ou des refuges qui cherchent à trouver une nouvelle famille pour lesdits animaux, ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
+    *   est publié par une Page, une Communauté ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web légitimes, des marques ou des refuges qui cherchent à trouver une nouvelle famille pour lesdits animaux, ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
     *   est publié dans le cadre d’un don d’animaux vivants n’étant pas en voie de disparition ou pour chercher une nouvelle famille pour lesdits animaux, y compris les contenus abordant les frais de relogement pour les adoptions entre pairs, mentionnant la vente d’un animal pour une offre religieuse ou offrant une récompense aux personnes ayant retrouvé des animaux perdus.
 
 **Sang humain**
@@ -654,9 +654,9 @@ De contenu qui :
 De contenu qui :
 
 *   tente d’acheter, de vendre ou de commercialiser de l’alcool ou du tabac, sauf lorsque le contenu :
-    *   est publié par une Page, un Groupe ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web ou des marques, ou un individu privé partageant le contenu au nom d’entités physiques légitimes.
+    *   est publié par une Page, une Communauté ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web ou des marques, ou un individu privé partageant le contenu au nom d’entités physiques légitimes.
     *   De contenu qui fait référence à de l’alcool ou à du tabac qui sera échangé ou consommé sur place lors d’un évènement, dans un restaurant, dans un bar, lors d’une fête, etc ;
-*   tente de faire don d’alcool ou de tabac, ou d’en offrir, sauf si le contenu est publié par une Page, un Groupe ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web ou des marques, ou un individu privé partageant le contenu au nom d’entités physiques légitimes.
+*   tente de faire don d’alcool ou de tabac, ou d’en offrir, sauf si le contenu est publié par une Page, une Communauté ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web ou des marques, ou un individu privé partageant le contenu au nom d’entités physiques légitimes.
 *   cherche à obtenir de l’alcool ou du tabac.
 
 **Produits amincissants**
@@ -667,13 +667,13 @@ De contenu qui :
 
 *   De contenu qui tente d’acheter des artefacts historiques, d’en vendre, d’en commercialiser, d’en faire don ou d’en solliciter.
 
-Sauf lorsque l'un des éléments ci-dessus intervient dans un contexte fictif ou documentaire.
+Sauf lorsque l’un des éléments ci-dessus intervient dans un contexte fictif ou documentaire.
 
 **Matériaux et objets dangereux**
 
 *   De contenu qui tente d’acheter des matériaux et objets dangereux, d’en vendre, d’en commercialiser, d’en faire don ou d’en solliciter.
 
-Sauf lorsque l'un des éléments ci-dessus intervient dans un contexte fictif ou documentaire.
+Sauf lorsque l’un des éléments ci-dessus intervient dans un contexte fictif ou documentaire.
 
 #### En ce qui concerne le contenu suivant, nous limitons la visibilité aux adultes âgés de 21 ans et plus :
 
@@ -879,7 +879,7 @@ Conscients de la fréquence de ces discours, nous nous efforçons de ralentir la
 
 Enfin, nous interdisons le contenu et le comportement dans d’autres domaines qui se recoupent souvent avec la diffusion de fausses informations. Par exemple, nos Standards de la communauté interdisent [les faux comptes](https://www.facebook.com/communitystandards/misrepresentation), [la fraude](https://www.facebook.com/communitystandards/fraud_deception) et [les comportements non authentiques coordonnés](https://www.facebook.com/communitystandards/inauthentic_behavior).
 
-À mesure que les environnements en ligne et hors ligne changent et évoluent, nous continuerons à faire évoluer ces politiques. Les Pages, Groupes, profils et comptes Instagram qui partagent de manière récurrente les fausses informations énumérées ci-dessous peuvent, en plus de voir leur contenu supprimé, être soumis à une diffusion réduite, des limitations sur leur capacité à faire de la publicité, ou être supprimés de nos plateformes. Vous trouverez [ici](https://www.facebook.com/help/260743102021762) de plus amples informations sur ce qui se passe lorsque Facebook supprime du contenu.
+À mesure que les environnements en ligne et hors ligne changent et évoluent, nous continuerons à faire évoluer ces politiques. Les Pages, Communautés, profils et comptes Instagram qui partagent de manière récurrente les fausses informations énumérées ci-dessous peuvent, en plus de voir leur contenu supprimé, être soumis à une diffusion réduite, des limitations sur leur capacité à faire de la publicité, ou être supprimés de nos plateformes. Vous trouverez [ici](https://www.facebook.com/help/260743102021762) de plus amples informations sur ce qui se passe lorsque Facebook supprime du contenu.
 
 #### Fausses informations que nous supprimons :
 
@@ -1061,8 +1061,8 @@ Dans le cadre de notre engagement pour l’authenticité, nous n’autorisons pa
 
 *   Utiliser plusieurs comptes Facebook ou partager un compte Facebook entre plusieurs personnes
 *   Utiliser de manière détournée les systèmes de signalement de Facebook et Instagram pour harceler des tiers
-*   Dissimuler le but d’une Page en trompant les utilisateurs sur la propriété ou le contrôle de ladite Page
-*   Adopter ou tenter d’adopter un comportement trompeur, qui est défini comme l’utilisation des ressources Facebook ou Instagram (comptes, Pages, Groupes ou Évènements) pour tromper des personnes sur Facebook :
+*   Dissimuler le but d’une Page en trompant les utilisateurs et utilisatrices sur la propriété ou le contrôle de ladite Page
+*   Adopter ou tenter d’adopter un comportement trompeur, qui est défini comme l’utilisation des ressources Facebook ou Instagram (comptes, Pages, Communautés ou Évènements) pour tromper des personnes sur Facebook :
     *   sur l’identité, l’objectif ou l’origine de l’entité qu’il représente ;
     *   sur la popularité de contenus ou d’éléments Facebook ou Instagram ;
     *   sur l’objectif de l’audience ou de la communauté ;
