@@ -271,7 +271,7 @@ La sécurité de nos créateurs, spectateurs et partenaires est notre priorité 
 
 **Remarque** : Nous avons modifié nos règles concernant l'incitation à la haine le 5 juin 2019. Pour en savoir plus, consultez [cette page](https://youtube.googleblog.com/2019/06/our-ongoing-work-to-tackle-hate.html). Vous trouverez ci-dessous la version mise à jour de ces règles.
 
-L'incitation à la haine est interdite sur YouTube. Nous supprimons tout contenu incitant à la violence ou à la haine contre des individus ou des groupes d'individus en fonction des caractéristiques suivantes :
+L'incitation à la haine est interdite sur YouTube. Nous supprimons tout contenu incitant à la violence ou à la haine contre des individus ou des groupes d'individus en fonction des caractéristiques suivantes :
 
 *   Âge
 *   Caste
@@ -279,7 +279,7 @@ L'incitation à la haine est interdite sur YouTube. Nous supprimons tout contenu
 *   Origine ethnique
 *   Identité et expression de genre
 *   Nationalité
-*   Race
+*   Groupe ethnique
 *   Statut d'immigration
 *   Religion
 *   Sexe/Genre
@@ -289,12 +289,12 @@ L'incitation à la haine est interdite sur YouTube. Nous supprimons tout contenu
 
 Si vous constatez qu'un contenu enfreint ces règles, merci de le signaler. [Cliquez ici](https://support.google.com/youtube/answer/2802027) pour savoir comment signaler les cas de non-respect du règlement de la communauté. Si vous souhaitez signaler plusieurs vidéos ou commentaires, vous pouvez [signaler la chaîne](https://support.google.com/youtube/answer/2802027#report_channel).
 
-Ce que ce règlement implique pour vous
+Ce que ces règles impliquent pour vous
 --------------------------------------
 
 #### Si vous publiez du contenu
 
-Ne publiez pas de contenu sur YouTube si vous avez pour objectif d'effectuer l'une des actions suivantes :
+Ne publiez pas de contenu sur YouTube si vous avez pour objectif d'effectuer l'une des actions suivantes :
 
 *   Encourager la violence contre des individus ou des groupes d'individus en fonction des caractéristiques listées ci-dessus. Les menaces sont interdites sur YouTube, et nous considérons les appels implicites à la violence comme de véritables menaces. En savoir plus sur nos [Règles concernant le harcèlement et la cyberintimidation](https://support.google.com/youtube/answer/2802268)
 *   Inciter à la haine contre des individus ou des groupes d'individus en fonction des caractéristiques listées ci-dessus.
@@ -309,7 +309,7 @@ Autres types de contenus enfreignant ce règlement
 *   Affirmation de la supériorité d'un groupe d'individus par rapport aux individus présentant l'une ou l'autre des caractéristiques listées ci-dessus, dans le but de justifier des actes de violence, de discrimination, de ségrégation ou d'exclusion.
 *   Théories du complot affirmant que des individus ou des groupes sont malveillants ou malhonnêtes, en fonction des caractéristiques listées ci-dessus.
 *   Appel à la domination sur des individus ou des groupes d'individus, ou à leur assujettissement, en fonction des caractéristiques listées ci-dessus.
-*   Négation de l'existence attestée d'un événement violent.
+*   Déni ou minimisation d'un événement violent majeur bien documenté ou du statut de victime des personnes ayant vécu cet événement.
 *   Attaques contre un individu en raison de son attirance émotionnelle, romantique et/ou sexuelle envers un autre individu.
 *   Contenus de propagande pour des groupes défendant la notion de suprématie raciale et incitant à la haine, y compris les contenus visant à recruter de nouveaux membres ou à demander un soutien financier.
 *   Clips musicaux dont les paroles, les métadonnées ou les images font l'apologie d'une idéologie suprémaciste incitant à la haine.
@@ -317,9 +317,9 @@ Autres types de contenus enfreignant ce règlement
 Contenu éducatif
 ----------------
 
-Nous pouvons autoriser un contenu comprenant une incitation à la haine si son objectif est éducatif, documentaire, scientifique ou artistique. Il ne s'agit toutefois pas d'un blanc-seing pour faire l'apologie de l'incitation à la haine. Exemples :
+Nous pouvons autoriser un contenu comprenant une incitation à la haine si son objectif est éducatif, documentaire, scientifique ou artistique. Il ne s'agit toutefois pas d'un blanc-seing pour faire l'apologie de l'incitation à la haine. Exemples :
 
-*   **Un documentaire sur un groupe incitant à la haine** : un contenu éducatif qui ne soutient pas le groupe ou ne promeut pas ses idées serait autorisé. Un documentaire faisant l'apologie de la violence ou de la haine serait interdit.
+*   **Un documentaire sur un groupe incitant à la haine** : un contenu éducatif qui ne soutient pas le groupe ou ne promeut pas ses idées serait autorisé. Un documentaire faisant l'apologie de la violence ou de la haine serait interdit.
 *   **Un documentaire sur l'étude scientifique des êtres humains** : un documentaire sur l'évolution des théories au fil du temps, même s'il inclut des théories sur l'infériorité ou la supériorité de groupes spécifiques, serait autorisé parce qu'il est éducatif. Nous interdirons toutefois un documentaire affirmant qu'il existe aujourd'hui des preuves scientifiques selon lesquelles des individus ou groupes d'individus sont inférieurs à d'autres ou peuvent être considérés comme des sous-hommes.
 *   Un film d'archive montrant un événement historique, tel que la Seconde Guerre mondiale, et ne faisant pas l'apologie de la violence ou de la haine, serait autorisé.
 
@@ -330,11 +330,11 @@ Les contenus éducatifs comprenant une incitation à la haine doivent rendre man
 Interdiction de monétisation et autres sanctions
 ------------------------------------------------
 
-Dans de très rares cas, nous pouvons supprimer du contenu ou imposer d'autres sanctions, par exemple lorsqu'un créateur :
+Dans de très rares cas, nous pouvons supprimer du contenu ou imposer d'autres sanctions, par exemple lorsqu'un créateur :
 
-*   encourage de façon continue un comportement abusif de la part des spectateurs ;
-*   cible, insulte et maltraite un groupe d'individus en fonction des caractéristiques listées ci-dessus, à plusieurs reprises et dans différentes vidéos ;
-*   expose un groupe d'individus présentant l'une ou l'autre des caractéristiques listées ci-dessus à des risques de blessure physique en fonction du contexte social ou politique local ;
+*   encourage de façon continue un comportement abusif de la part des spectateurs ;
+*   cible, insulte et maltraite un groupe d'individus en fonction des caractéristiques listées ci-dessus, à plusieurs reprises et dans différentes vidéos ;
+*   expose un groupe d'individus présentant l'une ou l'autre des caractéristiques listées ci-dessus à des risques de blessure physique en fonction du contexte social ou politique local ;
 *   crée un contenu nuisible à l'écosystème YouTube, en encourageant de façon persistante l'hostilité envers un groupe d'individus présentant l'une ou l'autre des caractéristiques listées ci-dessus pour en retirer un gain financier personnel.
 
 Exemples
@@ -358,11 +358,11 @@ Autres exemples
 *   "\[Une des caractéristiques listées ci-dessus\] n'est qu'une forme de maladie mentale qui doit être guérie."
 *   "Les \[personnes concernées par les caractéristiques listées ci-dessus\] ne devraient pas aller à l'école, car elles ne méritent pas d'être éduquées."
 *   "Toutes les prétendues victimes de cet événement violent sont des acteurs. Personne n'a été blessé, ce n'est qu'une supercherie."
-*   "Toutes les prétendues victimes de cet événement sont des acteurs. Personne n'a été blessé.”
-*   Crier "Les \[personnes concernées par les caractéristiques listées ci-dessus\] sont des parasites !" à un individu, qu'il soit ou non concerné par ces caractéristiques.
+*   "Des personnes sont décédées au cours de cet événement, mais le nombre de morts est vraiment négligeable."
+*   Crier "Les \[personnes concernées par les caractéristiques listées ci-dessus\] sont des parasites !" à un individu, qu'il soit ou non concerné par ces caractéristiques.
 *   Contenus de jeux vidéo développés ou modifiés afin d'inciter à la haine ou à la violence à l'encontre d'un groupe de personnes concernées par les caractéristiques listées ci-dessus
 
-Veuillez noter que cette liste d'exemples n'est pas exhaustive. Ne publiez pas un contenu si vous pensez qu'il est susceptible d'enfreindre ce règlement.
+Pour rappel, il ne s'agit que d'exemples. Ne publiez pas un contenu si vous pensez qu'il risque d'enfreindre ce règlement.
 
 Que se passe-t-il si un contenu ne respecte pas ce règlement ?
 --------------------------------------------------------------
