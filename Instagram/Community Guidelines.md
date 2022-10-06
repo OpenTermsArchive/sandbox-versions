@@ -470,7 +470,7 @@ Ne publiez pas :
 *   La personne concernée par la menace nous signale le contenu.
 
 *   De menaces contre les préposés à l’organisation des élections.
-*   Tout contenu implicite comportant des déclarations d’intention ou d’incitation, appels à l’action ou déclarations ambitionnant ou conditionnant l’apport d’armements dans des lieux, comprenant, mais sans s’y limiter, des lieux de culte, des établissements scolaires, des bureaux vote ou des emplacements dédiés au dépouillement ou à la gestion d’une élection (ou encourageant d’autres personnes à faire de même). Nous pouvons également limiter les appels à l’apport d’armements dans certains lieux présentant des signaux temporaires de risque accru de violence hors ligne. Tel peut être le cas, par exemple, lorsqu’une manifestation et une contre-manifestation connues sont prévues ou que des violences ont éclaté lors d’une manifestation dans la même ville au cours des 7 derniers jours.
+*   Tout contenu implicite comportant des déclarations d’intention ou d’incitation, appels à l’action ou déclarations ambitionnant ou conditionnant l’apport d’armements dans des lieux, comprenant, mais sans s’y limiter, des lieux de culte, des établissements scolaires, des bureaux vote ou des emplacements dédiés au dépouillement ou à la gestion d’une élection (ou encourageant d’autres personnes à faire de même). Nous pouvons également limiter les appels à l’apport d’armements dans certains lieux présentant des signaux temporaires de risque accru de préjudice hors ligne. Tel peut être le cas, par exemple, lorsqu’une manifestation et une contre-manifestation connues sont prévues ou que des violences ont éclaté lors d’une manifestation dans la même ville au cours des 7 derniers jours.
 
 Individus et organismes dangereux
 =================================
@@ -902,7 +902,7 @@ Ne pas :
     *   Des déclarations d'infériorité mentale ou morale fondées sur leur décision.
     *   Des déclarations qui préconisent ou prétendent une issue négative à la suite de leur décision, à l'exception des symptômes ou des effets secondaires des vaccins contre le COVID-19 largement prouvés et/ou acceptés.
 *   Supprimer le harcèlement de masse dirigé lorsqu’il :
-    *   Cible, quel que soit le moyen de communication, « des individus exposés à un risque élevé de violence hors ligne », soit :
+    *   Cible, quel que soit le moyen de communication, « des individus exposés à un risque élevé de préjudice hors ligne », soit :
         *   des défenseurs des droits de l’homme
         *   des mineurs
         *   des victimes de tragédies/d’évènements violents
