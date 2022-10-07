@@ -415,8 +415,8 @@ Ne publiez pas :
 *   Le contexte local ou l’expertise de la thématique confirment que la déclaration concernée peut être menaçante ou conduire à des actes de violence imminente ou des blessures physiques.
 *   La personne concernée par la menace nous signale le contenu.
 
-*   De menaces contre les préposés à l’organisation des élections.
-*   Tout contenu implicite comportant des déclarations d’intention ou d’incitation, appels à l’action ou déclarations ambitionnant ou conditionnant l’apport d’armements dans des lieux, comprenant, mais sans s’y limiter, des lieux de culte, des établissements scolaires, des bureaux vote ou des emplacements dédiés au dépouillement ou à la gestion d’une élection (ou encourageant d’autres personnes à faire de même). Nous pouvons également limiter les appels à l’apport d’armements dans certains lieux présentant des signaux temporaires de risque accru de préjudice hors ligne. Tel peut être le cas, par exemple, lorsqu’une manifestation et une contre-manifestation connues sont prévues ou que des violences ont éclaté lors d’une manifestation dans la même ville au cours des 7 derniers jours.
+*   Les menaces à l'encontre du personnel électoral, y compris les allégations d'actes frauduleux liés aux élections à l'encontre de particuliers lorsqu'elles sont associées à un signal de violence ou à un contexte supplémentaire qui permet de confirmer que l'allégation pourrait entraîner une violence ou des dommages physiques imminents.
+*   Tout contenu implicite comportant des déclarations d’intention ou d’incitation, appels à l’action ou déclarations ambitionnant ou conditionnant l’apport d’armements dans des lieux, comprenant, mais sans s’y limiter, des lieux de culte, des établissements scolaires, des bureaux vote ou des emplacements dédiés au dépouillement ou à la gestion d’une élection (ou encourageant d’autres personnes à faire de même). Nous pouvons également limiter les appels à l’apport d’armements dans certains lieux présentant des signaux temporaires de risque accru de violence hors ligne. Tel peut être le cas, par exemple, lorsqu’une manifestation et une contre-manifestation connues sont prévues ou que des violences ont éclaté lors d’une manifestation dans la même ville au cours des 7 derniers jours.
 
 Individus et organismes dangereux
 =================================
@@ -848,11 +848,12 @@ Ne pas :
     *   Des déclarations d'infériorité mentale ou morale fondées sur leur décision.
     *   Des déclarations qui préconisent ou prétendent une issue négative à la suite de leur décision, à l'exception des symptômes ou des effets secondaires des vaccins contre le COVID-19 largement prouvés et/ou acceptés.
 *   Supprimer le harcèlement de masse dirigé lorsqu’il :
-    *   Cible, quel que soit le moyen de communication, « des individus exposés à un risque élevé de préjudice hors ligne », soit :
+    *   Cible, quel que soit le moyen de communication, « des individus exposés à un risque élevé de violence hors ligne », soit :
         *   des défenseurs des droits de l’homme
         *   des mineurs
         *   des victimes de tragédies/d’évènements violents
         *   des figures de l’opposition en période d’élections dans des pays à risque
+        *   Agents électoraux
         *   des dissidents du gouvernement ciblés pour leur statut de dissidents
         *   des minorités ethniques et religieuses dans des zones en conflit
         *   un membre d’un groupe à risque reconnaissable et désigné comme tel
@@ -990,7 +991,7 @@ Par conséquent, nous acceptons les contenus respectant de tels motifs. Par exem
 
 #### Pour le contenu suivant, nous affichons un avertissement afin d’informer qu’il s’agit de contenus potentiellement sensibles :
 
-Des images de parties génitales visibles d’hommes et de femmes adultes, des gros plans de fesses ou d’anus entièrement nus, lorsqu’elles sont partagées dans un contexte médical ou lié à la santé, notamment :
+Des images de parties génitales visibles d’hommes et de femmes adultes, des gros plans de fesses ou d’anus entièrement nus, ou d’activité sexuelle sous-entendue / autre lorsqu’elles sont partagées dans un contexte médical ou lié à la santé, notamment  par exemple :
 
 *   les accouchements et les moments qui les suivent, y compris les accouchements naturels par voie basse et les césariennes.
 *   les chirurgies de confirmation de genre.
@@ -1159,7 +1160,6 @@ Nous pouvons également supprimer le type de contenu suivant.
 
 Ne publiez pas :
 
-*   De contenus mettant en danger un transfuge en révélant des informations personnelles identifiables à son propos lorsque le contenu est signalé par des canaux gouvernementaux fiables.
 *   De représentations d’un individu dans un centre médical ou de santé lorsqu’elles sont signalées par la personne concernée ou un représentant agréé.
 
 Dans certains cas, nous autoriserons du contenu qui pourrait enfreindre les Standards de la communauté lorsque celui-ci est considéré comme satirique. Le contenu sera uniquement autorisé si les éléments en infraction du contenu sont satiriques ou attribués à une chose ou une personne afin de se moquer d’elle ou de la critiquer.
