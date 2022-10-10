@@ -474,9 +474,9 @@ Nous supprimons tout soutien technique envers des entités et des évènements d
 Les **représentations** peuvent être définies comme ce qui suit :
 
 *   toute déclaration que vous êtes membre d’une entité désignée ou que vous êtes une entité désignée ;
-    *   Par exemple : « Je suis un Grand Dragon du KKK. »
-*   toute création d’une Page, d’un profil, d’un évènement, d’une Communauté ou d’une autre entité Facebook qui appartient ou prétend appartenir à une entité désignée ou gérée en son nom, ou qui est ou prétend être un évènement désigné.
-    *   Par exemple : « Une Page baptisée Parti nazi américain. »
+    *   P. ex. : « Je suis un Grand Dragon du KKK. »
+*   toute création d’une Page, d’un profil, d’un évènement, d’un groupe ou d’une autre entité Facebook qui appartient ou prétend appartenir à une entité désignée ou géré(e) en son nom, ou qui est ou prétend être un évènement désigné.
+    *   P. ex. : « Une Page baptisée Parti nazi américain. »
 
 Nous supprimons les représentations des entités bannies incitant à la haine, des évènements désignés et des organismes désignés de niveaux 1 et 2.
 
@@ -574,8 +574,8 @@ Nous travaillons ardemment à limiter la diffusion des spams, car nous ne voulon
 
 #### Ne pas :
 
-*   Publier, partager, prendre part, manuellement ou automatiquement, à du contenu ou créer des comptes, Communautés, Pages, évènements ou autres éléments, à des fréquences très élevées.
-*   Tenter de ou réussir à vendre, acheter ou échanger des privilèges sur le site, des engagements ou des fonctionnalités de produit, comme des comptes, des rôles d’admin, des autorisations de publier, des Pages, des Communautés, des mentions « J’aime », etc. sauf dans le cas d’un contenu de marque clairement identifié, tel que défini dans nos [Politiques de contenu de marque](https://www.facebook.com/policies/brandedcontent/).
+*   Publier, partager, prendre part, manuellement ou automatiquement, à du contenu ou créer des comptes, groupes, Pages, évènements ou autres éléments, à des fréquences très élevées.
+*   Tenter de ou réussir à vendre, acheter ou échanger des privilèges sur le site, des engagements ou des fonctionnalités de produit, comme des comptes, des rôles d’administrateur, des autorisations de publier, des Pages, des groupes, des mentions « J’aime », etc. sauf dans le cas d’un contenu de marque clairement identifié, tel que défini dans nos [Politiques de contenu de marque](https://www.facebook.com/policies/brandedcontent/).
 
 *   Exiger ou réclamer que les utilisateurs et utilisatrices interagissent avec du contenu (par exemple aimer, partager) avant de pouvoir voir ou interagir avec le contenu promis.
 *   Encourager à aimer, partager, suivre, cliquer ou utiliser les apps ou sites web pour des prétextes comme :
@@ -603,9 +603,9 @@ Pour encourager la sécurité et prévenir les activités potentiellement danger
 
 De contenu qui :
 
-*   tente d’acheter, de vendre ou de commercialiser des armes à feu, de pièces d’armes à feu, des munitions, des explosifs ou des améliorations à visée meurtrière, sauf si ledit contenu est publié par une Page, une Communauté ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web, des marques ou des agences gouvernementales (par exemple, un service de police ou une brigade de pompiers) ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
+*   tente d’acheter, de vendre ou de commercialiser des armes à feu, de pièces d’armes à feu, des munitions, des explosifs ou des améliorations à visée meurtrière, sauf si ledit contenu est publié par une Page, un Groupe ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web, des marques ou des agences gouvernementales (par exemple, un service de police ou une brigade de pompiers) ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
 *   tente de faire don d’armes à feu, de pièces d’armes à feu, de munitions, d’explosifs ou d’améliorations à visée meurtrière, ou d’en offrir, sauf si ledit contenu est publié dans les contextes suivants :
-    *   don, commercialisation ou rachat d’armes à feu et de munitions par une Page, une Communauté ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web, des marques ou des agences gouvernementales ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
+    *   don, commercialisation ou rachat d’armes à feu et de munitions par une Page, un Groupe ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web, des marques ou des agences gouvernementales ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
     *   une tombola ou une enchère d’armes à feu organisée par des entités physiques légitimes, y compris des entreprises de vente au détail, des organisations liées au gouvernement ou sans but lucratif, ou des individus privés affiliés à des entités physiques légitimes ou sponsorisés par celles-ci.
 *   cherche à obtenir des armes à feu, des pièces d’armes à feu, des munitions, des explosifs ou des améliorations à visée meurtrière ;
 *   vend, offre, échange, transfère, coordonne, promeut (dans le sens d’en parler positivement, d’encourager à leur utilisation) ou fournit des instructions de fabrication d’armes à feu ou de pièces d’armes à feu à l’aide d’imprimantes 3D ou d’un ordinateur, quel que soit le contexte ou la personne à l’origine de la publication.
@@ -645,7 +645,7 @@ De contenu qui :
 **Animaux vivants n’étant pas en voie de disparition, à l’exclusion du bétail**
 
 *   De contenu qui tente d’acheter, de vendre ou de commercialiser des animaux vivants n’étant pas en voie de disparition, sauf lorsque le contenu :
-    *   est publié par une Page, une Communauté ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web légitimes, des marques ou des refuges qui cherchent à trouver une nouvelle famille pour lesdits animaux, ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
+    *   est publié par une Page, un Groupe ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web légitimes, des marques ou des refuges qui cherchent à trouver une nouvelle famille pour lesdits animaux, ou un individu privé partageant le contenu au nom d’entités physiques légitimes ;
     *   est publié dans le cadre d’un don d’animaux vivants n’étant pas en voie de disparition ou pour chercher une nouvelle famille pour lesdits animaux, y compris les contenus abordant les frais de relogement pour les adoptions entre pairs, mentionnant la vente d’un animal pour une offre religieuse ou offrant une récompense aux personnes ayant retrouvé des animaux perdus.
 
 **Sang humain**
@@ -658,9 +658,9 @@ De contenu qui :
 De contenu qui :
 
 *   tente d’acheter, de vendre ou de commercialiser de l’alcool ou du tabac, sauf lorsque le contenu :
-    *   est publié par une Page, une Communauté ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web ou des marques, ou un individu privé partageant le contenu au nom d’entités physiques légitimes.
+    *   est publié par une Page, un Groupe ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web ou des marques, ou un individu privé partageant le contenu au nom d’entités physiques légitimes.
     *   De contenu qui fait référence à de l’alcool ou à du tabac qui sera échangé ou consommé sur place lors d’un évènement, dans un restaurant, dans un bar, lors d’une fête, etc ;
-*   tente de faire don d’alcool ou de tabac, ou d’en offrir, sauf si le contenu est publié par une Page, une Communauté ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web ou des marques, ou un individu privé partageant le contenu au nom d’entités physiques légitimes.
+*   tente de faire don d’alcool ou de tabac, ou d’en offrir, sauf si le contenu est publié par une Page, un Groupe ou un profil Instagram représentant des entités physiques légitimes, y compris des entreprises de vente au détail, des sites web ou des marques, ou un individu privé partageant le contenu au nom d’entités physiques légitimes.
 *   cherche à obtenir de l’alcool ou du tabac.
 
 **Produits amincissants**
@@ -884,7 +884,7 @@ Conscients de la fréquence de ces discours, nous nous efforçons de ralentir la
 
 Enfin, nous interdisons le contenu et le comportement dans d’autres domaines qui se recoupent souvent avec la diffusion de fausses informations. Par exemple, nos Standards de la communauté interdisent [les faux comptes](https://www.facebook.com/communitystandards/misrepresentation), [la fraude](https://www.facebook.com/communitystandards/fraud_deception) et [les comportements non authentiques coordonnés](https://www.facebook.com/communitystandards/inauthentic_behavior).
 
-À mesure que les environnements en ligne et hors ligne changent et évoluent, nous continuerons à faire évoluer ces politiques. Les Pages, Communautés, profils et comptes Instagram qui partagent de manière récurrente les fausses informations énumérées ci-dessous peuvent, en plus de voir leur contenu supprimé, être soumis à une diffusion réduite, des limitations sur leur capacité à faire de la publicité, ou être supprimés de nos plateformes. Vous trouverez [ici](https://www.facebook.com/help/260743102021762) de plus amples informations sur ce qui se passe lorsque Facebook supprime du contenu.
+À mesure que les environnements en ligne et hors ligne changent et évoluent, nous continuerons à faire évoluer ces politiques. Les Pages, Groupes, profils et comptes Instagram qui partagent de manière récurrente les fausses informations énumérées ci-dessous peuvent, en plus de voir leur contenu supprimé, être soumis à une diffusion réduite, des limitations sur leur capacité à faire de la publicité, ou être supprimés de nos plateformes. Vous trouverez [ici](https://www.facebook.com/help/260743102021762) de plus amples informations sur ce qui se passe lorsque Facebook supprime du contenu.
 
 #### Fausses informations que nous supprimons :
 
@@ -1070,8 +1070,8 @@ Dans le cadre de notre engagement pour l’authenticité, nous n’autorisons pa
 
 *   Utiliser plusieurs comptes Facebook ou partager un compte Facebook entre plusieurs personnes
 *   Utiliser de manière détournée les systèmes de signalement de Facebook et Instagram pour harceler des tiers
-*   Dissimuler le but d’une Page en trompant les utilisateurs et utilisatrices sur la propriété ou le contrôle de ladite Page
-*   Adopter ou tenter d’adopter un comportement trompeur, qui est défini comme l’utilisation des ressources Facebook ou Instagram (comptes, Pages, Communautés ou Évènements) pour tromper des personnes sur Facebook :
+*   Dissimuler le but d’une Page en trompant les utilisateurs sur la propriété ou le contrôle de ladite Page
+*   Adopter ou tenter d’adopter un comportement trompeur, qui est défini comme l’utilisation des ressources Facebook ou Instagram (comptes, Pages, Groupes ou Évènements) pour tromper des personnes sur Facebook :
     *   sur l’identité, l’objectif ou l’origine de l’entité qu’il représente ;
     *   sur la popularité de contenus ou d’éléments Facebook ou Instagram ;
     *   sur l’objectif de l’audience ou de la communauté ;
